@@ -15,4 +15,4 @@ This project is a collaboration with Dr. Linh Nguyen from Australia Federation U
 
 This project aims to develop distributed algorithms for Learning based Distributed Model Predictive Control for multi-agent control systems, where the agents’ dynamics are modeled by a machine learning model. Check out [our CCTA 2020 paper](https://ieeexplore.ieee.org/abstract/document/9206390), which employ the Gaussian Process to learn system dynamics, and a distributed algorithm, called linGP-SCP-ADMM, to solve the non-convex GP-DMPC problem effectively.
 
-[![Illustration](http://img.youtube.com/vi/13HaOSNmUvg/0.jpg)](http://www.youtube.com/watch?v=13HaOSNmUvg "")
+![](../images/ccta.png)
