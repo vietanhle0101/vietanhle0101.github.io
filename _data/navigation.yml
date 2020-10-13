@@ -2,6 +2,6 @@
 main:
   - title: "Projects"
     url: /projects/
-  
+
   - title: "CV"
-    url: /cv/
+    url: [cv](../files/My_CV.pdf)
