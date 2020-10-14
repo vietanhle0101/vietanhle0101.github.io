@@ -6,13 +6,15 @@ author_profile: true
 ---
 
 ## Adaptive Sampling for Mobile Robotic Sensor Networks
-
+![](../images/mrsn.png)
 This project is a collaboration with Dr. Linh Nguyen from Australia Federation University. In this project, we develop efficient adaptive sampling strategies for resource-constrained Mobile Robotic Sensor Network for monitoring a spatial phenomenon based on Gaussian Process. The adaptive sampling problem can be formulated as minimizing the negative log determinant of a predicted covariance matrix, which is a non-convex and highly complex function. Moreover, the constraints on robot mobility such as nonholonomic dynamics and inter-robot collision avoidance are taken into consideration. A manuscript has been submitted to ACC 2021.
 
-![](../images/mrsn.png)
 
 ## Learning based Distributed Model Predictive Control for Multi-agent Systems
-
-This project aims to develop distributed algorithms for Learning based Distributed Model Predictive Control for multi-agent control systems, where the agents’ dynamics are modeled by a machine learning model. Check out [our CCTA 2020 paper](https://ieeexplore.ieee.org/abstract/document/9206390), which employ the Gaussian Process to learn system dynamics, and a distributed algorithm, called linGP-SCP-ADMM, to solve the non-convex GP-DMPC problem effectively.
-
 ![](../images/ccta.png)
+
+This project aims to develop distributed algorithms for Learning based Distributed Model Predictive Control for multi-agent control systems, where the agents’ dynamics are modeled by a machine learning model. Our [CCTA 2020 paper](https://ieeexplore.ieee.org/abstract/document/9206390) employs the Gaussian Process to learn system dynamics, and a distributed algorithm, called linGP-SCP-ADMM, to solve the non-convex GP-DMPC problem effectively.
+
+## Modeling and Control of Overhead Crane/Ship-mounted Crane
+
+This research and experiment were conducted when I was an undergraduate research intern at School of Mechanical Engineering, Vietnam Maritime University. My duty was (1) designing an adaptive control system for uncertain overhead cranes/ship-mounted crane using sliding mode approach combined with radial basis function (RBF) neural network and (2) implementing it on the microcontroller. Details can be found in our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0888327018302322) and [video](https://www.youtube.com/watch?v=ZlF37IZh89Q)
