@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Learning based Distributed Model Predictive Control for Multi-agent Systems
-![](../images/ccta.png)
+<!-- ![](../images/ccta.png) -->
 
-This project aims to develop distributed algorithms for Learning based Distributed Model Predictive Control for multi-agent control systems, where the agents’ dynamics are modeled by a machine learning model. Our [CCTA 2020 paper](https://ieeexplore.ieee.org/abstract/document/9206390) utilized the Gaussian Process to learn system dynamics, and a distributed algorithm, called linGP-SCP-ADMM, was proposed to solve the non-convex GP-DMPC problem effectively.
+This project aims to develop distributed algorithms for Learning based Distributed Model Predictive Control (DMPC) of multi-agent control systems, where the agents’ dynamics are modeled by a machine learning model. Our [CCTA 2020 paper](https://ieeexplore.ieee.org/abstract/document/9206390) utilized the Gaussian Process (GP) to learn system dynamics, and an algorithm, called linGP-SCP-ADMM that combines the Sequential Convex Programming and the distributed ADMM algorithm, was proposed to solve the non-convex GP-DMPC problem effectively.
 
 ## Adaptive Sampling for Mobile Robotic Sensor Networks
 ![](../images/mrsn.png)
