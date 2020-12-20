@@ -8,12 +8,12 @@ author_profile: true
 ## Learning based Distributed Model Predictive Control for Multi-agent Systems
 <!-- ![](../images/ccta.png) -->
 
-This project aims to develop distributed algorithms for Learning based Distributed Model Predictive Control (DMPC) of multi-agent control systems, where the agents’ dynamics are modeled by a machine learning model. Our [CCTA 2020 paper](https://ieeexplore.ieee.org/abstract/document/9206390) utilized the Gaussian Process (GP) to learn system dynamics, and an algorithm, called linGP-SCP-ADMM that combines the Sequential Convex Programming and the distributed ADMM algorithm, was proposed to solve the non-convex GP-DMPC problem effectively.
+This project aims to develop distributed algorithms for Learning based Distributed Model Predictive Control (DMPC) of multi-agent control systems, where the agents’ dynamics are modeled by a machine learning model. Our [CCTA 2020 paper](https://ieeexplore.ieee.org/abstract/document/9206390) utilized Gaussian Process (GP) to learn system dynamics, and an algorithm, called linGP-SCP-ADMM that combines the Sequential Convex Programming and the distributed ADMM algorithm, was proposed to solve the non-convex GP-DMPC problem effectively.
 
 ## Adaptive Sampling for Mobile Robotic Sensor Networks
 ![](../images/mrsn.png)
 
-This project is a collaboration with Dr. Linh Nguyen from Australia Federation University. In this project, we develop efficient adaptive sampling strategies for resource-constrained Mobile Robotic Sensor Network for monitoring a spatial phenomenon based on Gaussian Process. The adaptive sampling problem can be formulated as minimizing the negative log determinant of a predicted covariance matrix, which is a non-convex and highly complex function. Moreover, the constraints on robot mobility such as nonholonomic dynamics and inter-robot collision avoidance are taken into consideration. A manuscript has been submitted to ACC 2021.
+This project is a collaboration with Dr. Linh Nguyen from Australia Federation University. In this project, we develop efficient adaptive sampling strategies for resource-constrained Mobile Robotic Sensor Network for monitoring a spatial phenomenon based on Gaussian Process. The adaptive sampling problem can be formulated as minimizing the negative log determinant of a predicted covariance matrix, which is a non-convex and highly complex function. Moreover, the constraints on robot mobility such as nonholonomic dynamics and inter-robot collision avoidance are taken into consideration. A manuscript has been submitted to IEEE Sensor Journal. More interestingly, there is a connection between the adaptive sampling problem and the optimal experiment design (OED) problem in learning-based control. Let's wait for our work on this idea.
 
 ## Modeling and Control of Overhead Crane/Ship-mounted Crane
 
