@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-See my full CV [here](../files/My_CV.pdf)
+My [full CV](../files/My_CV.pdf)
