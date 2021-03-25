@@ -38,7 +38,7 @@ This research and experiment were conducted when I was an undergraduate research
 
 ### Publications
 
-* V.-A. Le, X. H. Le, L. Nguyen, and X. M. Phan, “An efficient adaptive hierarchical sliding mode control strategy using neural networks for 3D overhead cranes”, International Journal of Automation andComputing, vol. 16, no. 5, pp. 614–627, 2019. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0888327018302322) | [video](https://www.youtube.com/watch?v=ZlF37IZh89Q)]
+* V.-A. Le, X. H. Le, L. Nguyen, and X. M. Phan, “An efficient adaptive hierarchical sliding mode control strategy using neural networks for 3D overhead cranes”, International Journal of Automation andComputing, vol. 16, no. 5, pp. 614–627, 2019. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0888327018302322) / [video](https://www.youtube.com/watch?v=ZlF37IZh89Q)]
 
 * A. T. Le, M. C. Hoang, V. T. Pham, C. N. Luong, D. T. Vu, and V.-A. Le, “Adaptive neural network sliding mode control of shipboard container cranes considering actuator backlash”, Mechanical Systemsand Signal Processing, vol. 112, pp. 233–250, 2018. [[link](https://link.springer.com/article/10.1007/s11633-019-1174-y)]
 
