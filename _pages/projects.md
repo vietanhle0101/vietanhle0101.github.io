@@ -42,4 +42,4 @@ This research and experiment were conducted when I was an undergraduate research
 
 * A. T. Le, M. C. Hoang, V. T. Pham, C. N. Luong, D. T. Vu, and V.-A. Le, “Adaptive neural network sliding mode control of shipboard container cranes considering actuator backlash”, Mechanical Systems and Signal Processing, vol. 112, pp. 233–250, 2018. [[link](https://link.springer.com/article/10.1007/s11633-019-1174-y)]
 
-* V.-A. Le, X. H. Le, D. T. Vu, V. T. Pham, A. T. Le, and M. C. Hoang, “Designing an adaptive con-troller for 3D overhead cranes using hierarchical sliding mode and neural network”, in 2018 InternationalConference on System Science and Engineering (ICSSE), IEEE, 2018, pp. 1–6. [[link](https://ieeexplore.ieee.org/abstract/document/8520162)]
+* V.-A. Le, X. H. Le, D. T. Vu, V. T. Pham, A. T. Le, and M. C. Hoang, “Designing an adaptive controller for 3D overhead cranes using hierarchical sliding mode and neural network”, in 2018 International Conference on System Science and Engineering (ICSSE), IEEE, 2018, pp. 1–6. [[link](https://ieeexplore.ieee.org/abstract/document/8520162)]
