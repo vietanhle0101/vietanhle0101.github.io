@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant and Master student at School of Informatics, Computing and Cyber Systems, Northern Arizona University. I am currently working under the supervision of Dr. Truong Nghiem. I gained BSc degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2019.
-
-My current research interest includes Distributed Model Predictive Control for Multi-agent Systems, Intelligent Control using Machine Learning and Optimization, Robotics and Autonomous Systems.
+Viet-Anh Le is a M.Sc. student at the School of Informatics, Computing, and Cyber Systems, Northern Arizona University. He received the B.Sc. degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2019. His current research interest includes Learning-based Control, Model Predictive Control, Distributed Optimization, Multi-agent and Autonomous Systems. He is a Student Member of the IEEE and the IEEE Control System Society.
