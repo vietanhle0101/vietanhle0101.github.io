@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-# Gaussian Process based  Model Predictive Control
+## Gaussian Process based  Model Predictive Control
 <!-- ![](../images/ccta.png) -->
 
 This project aims to enhance the performance of Model Predictive Control (MPC) for single dynamical systems or multi-agent systems by using Gaussian Processes (GPs) to learn system dynamics.
@@ -19,7 +19,7 @@ This project aims to enhance the performance of Model Predictive Control (MPC) f
 * V.-A. Le and T. X. Nghiem, “Gaussian Process Based Distributed Model Predictive Control for Multi-agent Systems using Sequential Convex Programming and ADMM”, in 2020 IEEE Conference on Control Technology and Applications (CCTA), IEEE, 2020, pp. 31–36. [[link](https://ieeexplore.ieee.org/abstract/document/9206390)]
 
 
-# Adaptive Sampling for Mobile Robotic Sensor Networks
+## Adaptive Sampling for Mobile Robotic Sensor Networks
 <!-- ![](../images/mrsn.png) -->
 
 This project is a collaboration with Dr. Linh Nguyen from Australia Federation University. In this project, we develop efficient adaptive sampling strategies for a resource-constrained Mobile Robotic Sensor Network for monitoring a spatial phenomenon based on Gaussian Process.
@@ -32,7 +32,7 @@ This project is a collaboration with Dr. Linh Nguyen from Australia Federation U
 
 <!-- This temporary [poster](../files/MRSN_poster.pdf) may be helpful to get the overall idea. -->
 
-# Modeling and Control of Overhead Crane/Ship-mounted Crane
+## Modeling and Control of Overhead Crane/Ship-mounted Crane
 
 This research and experiment were conducted when I was an undergraduate research intern at School of Mechanical Engineering, Vietnam Maritime University. My duty includes designing anti-swing control algorithms for uncertain overhead crane/ship-mounted crane using sliding mode approach and Radial Basis Function (RBF) Neural Networks and implementing them on NI-MyRIO microcontroller.
 
