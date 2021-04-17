@@ -15,6 +15,6 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 <!-- # News -->
 
-<!-- * April, 2021: Our article, <em>"ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks"</em>, has been accepted for publication in IEEE Sensors Journal.
+<!-- * April, 2021: Our article (with Dr. Truong X. Nghiem and Dr. Linh Nguyen), <em>"ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks"</em>, has been accepted for publication in IEEE Sensors Journal.
 
-* Jan, 2021: Our article, <em>"An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM"</em>, has been accepted to the 2021 American Control Conference. -->
+* Jan, 2021: Our article (with Dr. Truong X. Nghiem and Dr. Linh Nguyen), <em>"An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM"</em>, has been accepted to the 2021 American Control Conference. -->
