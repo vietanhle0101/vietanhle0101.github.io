@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Gaussian Process based  Model Predictive Control
-<!-- ![](../images/ccta.png) -->
 
 This project aims to enhance the performance of Model Predictive Control (MPC) for single dynamical systems or multi-agent systems by using Gaussian Processes (GPs) to learn system dynamics.
 
@@ -21,7 +20,6 @@ This project aims to enhance the performance of Model Predictive Control (MPC) f
 <hr />
 
 ## Adaptive Sampling for Mobile Robotic Sensor Networks
-<!-- ![](../images/mrsn.png) -->
 
 This project is a collaboration with Dr. Linh Nguyen from Australia Federation University. In this project, we develop efficient adaptive sampling strategies for a resource-constrained Mobile Robotic Sensor Network for monitoring a spatial phenomenon based on Gaussian Process.
 
