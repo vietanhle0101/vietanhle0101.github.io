@@ -21,7 +21,7 @@ This project aims to enhance the performance of Model Predictive Control (MPC) f
 
 ## Adaptive Sampling for Mobile Robotic Sensor Networks
 
-This project is a collaboration with Dr. Linh Nguyen from Australia Federation University. In this project, we develop efficient adaptive sampling strategies for a resource-constrained Mobile Robotic Sensor Network for monitoring a spatial phenomenon based on Gaussian Process.
+In collaboration with Dr. Linh Nguyen (Australia Federation University), we develop efficient adaptive sampling strategies for Mobile Robotic Sensor Networks for monitoring a spatial phenomenon by using Gaussian Process.
 
 ### Publications
 
@@ -35,11 +35,11 @@ This project is a collaboration with Dr. Linh Nguyen from Australia Federation U
 
 ## Modeling and Control of Overhead Crane/Ship-mounted Crane
 
-This research and experiment were conducted when I was an undergraduate research intern at School of Mechanical Engineering, Vietnam Maritime University. My duty includes designing anti-swing control algorithms for uncertain overhead crane/ship-mounted crane using sliding mode approach and Radial Basis Function (RBF) Neural Networks and implementing them on NI-MyRIO microcontroller.
+This research and experiment were conducted when I was an undergraduate research intern at School of Mechanical Engineering, Vietnam Maritime University. My duty includes designing anti-swing control algorithms for uncertain overhead cranes/ship-mounted cranes using adaptive sliding mode control approach and implementing them on NI-MyRIO microcontroller.
 
 ### Publications
 
-* **V.-A. Le**, X. H. Le, L. Nguyen, and X. M. Phan, “An efficient adaptive hierarchical sliding mode control strategy using neural networks for 3D overhead cranes”, International Journal of Automation and Computing, vol. 16, no. 5, pp. 614–627, 2019. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0888327018302322) \| [video](https://www.youtube.com/watch?v=ZlF37IZh89Q)]
+* **V.-A. Le**, X. H. Le, L. Nguyen, and X. M. Phan, “An efficient adaptive hierarchical sliding mode control strategy using neural networks for 3D overhead cranes”, International Journal of Automation and Computing, vol. 16, no. 5, pp. 614–627, 2019. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0888327018302322) \| [experiments](https://www.youtube.com/playlist?list=PLctBt518bw6C32VeKsu93DWxS4S5cg6Tf)]
 
 * A. T. Le, M. C. Hoang, V. T. Pham, C. N. Luong, D. T. Vu, and **V.-A. Le**, “Adaptive neural network sliding mode control of shipboard container cranes considering actuator backlash”, Mechanical Systems and Signal Processing, vol. 112, pp. 233–250, 2018. [[link](https://link.springer.com/article/10.1007/s11633-019-1174-y)]
 
