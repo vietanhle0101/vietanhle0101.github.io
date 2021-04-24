@@ -12,7 +12,7 @@ I am a M.Sc. student at the School of Informatics, Computing, and Cyber Systems,
 <!-- at the [IDS Lab](https://sites.udel.edu/ids-lab/people/). -->
 My current research interest includes Learning-based Control, Model Predictive Control, Distributed Optimization, Multi-agent and Autonomous Systems. I am a Student Member of the IEEE and the IEEE Control System Society.
 
-<hr />
+***
 
 # News
 
