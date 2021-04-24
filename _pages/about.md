@@ -15,6 +15,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 ***
 
 # News
+<font size="1"> This is my text number1</font> 
 
 * April 2021: My joint article with Dr. Truong X. Nghiem (Northern Arizona Unveristy) and Dr. Linh Nguyen (Federation University Australia), <em>"ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks"</em>, has been accepted for publication in IEEE Sensors Journal.
 
