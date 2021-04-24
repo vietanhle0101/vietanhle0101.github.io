@@ -14,8 +14,12 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 <hr />
 
-<!-- # News -->
+# News
 
-<!-- * April, 2021: My article with Dr. Truong X. Nghiem (Northern Arizona University) and Dr. Linh Nguyen (Federation University Australia), <em>"ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks"</em>, has been accepted for publication in IEEE Sensors Journal.
+* April, 2021: My article (joint work with Dr. Truong X. Nghiem and Dr. Linh Nguyen), <em>"ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks"</em>, has been accepted for publication in IEEE Sensors Journal.
 
-* Jan, 2021: My article with Dr. Truong X. Nghiem (Northern Arizona University) and Dr. Linh Nguyen (Federation University Australia), <em>"An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM"</em>, has been accepted to the 2021 American Control Conference. -->
+* January, 2021: My article (joint work with Dr. Truong X. Nghiem and Dr. Linh Nguyen), <em>"An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM"</em>, has been accepted to the 2021 American Control Conference (ACC 2021).
+
+* August, 2020: My CCTA 2020 paper was presented at the conference.
+
+* April, 2020: My article (joint work with Dr. Truong X. Nghiem), <em>“Gaussian Process Based Distributed Model Predictive Control for Multi-agent Systems using Sequential Convex Programming and ADMM”</em>, has been accepted to the 2020 IEEE Conference on Control Technology and Applications (CCTA 2020).
