@@ -35,7 +35,7 @@ In collaboration with Dr. Linh Nguyen (Australia Federation University), we deve
 
 <!-- This temporary [poster](../files/MRSN_poster.pdf) may be helpful to get the overall idea. -->
 
-## Modeling and Control of Overhead Crane/Ship-mounted Crane
+## Modeling and Control of Overhead Cranes/Ship-mounted Cranes
 
 This research and experiment were conducted when I was an undergraduate research intern at School of Mechanical Engineering, Vietnam Maritime University. My duty includes designing anti-swing control algorithms for uncertain overhead cranes/ship-mounted cranes using adaptive sliding mode control approach and implementing them on NI-MyRIO microcontroller.
 
