@@ -31,6 +31,8 @@ In collaboration with Dr. Linh Nguyen (Australia Federation University), we deve
 
 <hr />
 
+# Past Projects
+
 <!-- This temporary [poster](../files/MRSN_poster.pdf) may be helpful to get the overall idea. -->
 
 ## Modeling and Control of Overhead Crane/Ship-mounted Crane
