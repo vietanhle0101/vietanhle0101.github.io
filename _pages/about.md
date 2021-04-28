@@ -17,8 +17,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # News
 
-* April 2021: My joint article with Dr. Truong X. Nghiem, <em>“A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”
-</em>, has been accepted to the 2021 IEEE Conference on Control Technology and Applications (CCTA 2021).
+* April 2021: My joint article with Dr. Truong X. Nghiem, <em>“A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Control Technology and Applications (CCTA 2021).
 
 * April 2021: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks"</em>, has been accepted for publication in IEEE Sensors Journal.
 
