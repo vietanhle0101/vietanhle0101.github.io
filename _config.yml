@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Viet-Anh Le"
-  avatar           : "profile2.png"
+  avatar           : "profile3.png"
   bio              : "Research Assistant at Northern Arizona University"
   location         : "Flagstaff, Arizona, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2-UnE-MAAAAJ&hl=en&authuser=1&oi=ao"
-  email            : "vl385@nau.edu"
+  email            : "vietale@udel.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/viet-anh-le-22831718b/
   orcid            :
   pinterest        :
   soundcloud       :
