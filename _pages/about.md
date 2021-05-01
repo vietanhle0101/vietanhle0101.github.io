@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.Sc. student at the School of Informatics, Computing, and Cyber Systems, Northern Arizona University. I received the B.Sc. degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2019. Starting from Fall 2021, I will pursue the Ph.D. degree in Mechanical Engineering at the University of Delaware under the supervision of Dr. Andreas Malikopoulos in the [Information and Decision Science Lab](https://sites.udel.edu/ids-lab/people/).
+I am a M.Sc. student at the School of Informatics, Computing, and Cyber Systems, Northern Arizona University. I received the B.Sc. degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2019. Starting from Fall 2021, I will pursue the Ph.D. degree in Mechanical Engineering at the University of Delaware under the supervision of Dr. Andreas Malikopoulos in the [Information and Decision Science Lab](https://sites.udel.edu/ids-lab/).
 <!-- I am a Student Member of the IEEE and the IEEE Control System Society. -->
 My current research interest includes Learning-based Control, Model Predictive Control, Distributed Optimization, Multi-agent and Autonomous Systems.
 
