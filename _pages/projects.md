@@ -25,7 +25,7 @@ In collaboration with Dr. Linh Nguyen (Australia Federation University), we deve
 
 ### Publications
 
-* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “Multi-Step Predictions for Adaptive Sampling using Proximal ADMM” (in preparation)
+* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “Multi-Step Predictions for Adaptive Sampling using Proximal ADMM”, submitted to IEEE Transactions on Cybernetics [[TechRxiv preprint](https://www.techrxiv.org/articles/preprint/Multi-Step_Predictions_for_Adaptive_Sampling_using_Proximal_ADMM/14642577/1)].
 
 * **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks”, IEEE Sensors Journal, accepted. [[link](https://ieeexplore.ieee.org/document/9400422)]
 
