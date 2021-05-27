@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : 
+og_image                 :
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,7 +83,7 @@ author:
   name             : "Viet-Anh Le"
   avatar           : "profile2.png"
   bio              : "PhD student at the University of Delaware"
-  location         : "Flagstaff, Arizona, USA"
+  location         : # "Flagstaff, Arizona, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2-UnE-MAAAAJ&hl=en&authuser=1&oi=ao"
