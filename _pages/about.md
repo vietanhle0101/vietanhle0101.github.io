@@ -17,7 +17,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # News
 
-* May 2020: My ACC 2021 paper was presented at the conference.
+* May 2021: My ACC 2021 paper was presented at the conference.
 
 * April 2021: My joint article with Dr. Truong X. Nghiem, <em>“A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Control Technology and Applications (CCTA 2021).
 
