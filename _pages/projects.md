@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Gaussian Process based  Model Predictive Control
+## Learning-based Model Predictive Control with Gaussian Processes
 
 This project aims to enhance the performance of Model Predictive Control (MPC) for single dynamical systems or multi-agent systems by using Gaussian Processes (GPs) to learn system dynamics.
 
@@ -43,7 +43,7 @@ This research and experiment were conducted when I was an undergraduate research
 
 ### Publications
 
-* **V.-A. Le**, X. H. Le, L. Nguyen, and X. M. Phan, “An efficient adaptive hierarchical sliding mode control strategy using neural networks for 3D overhead cranes”, International Journal of Automation and Computing, vol. 16, no. 5, pp. 614–627, 2019. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0888327018302322) \| [experiments](https://www.youtube.com/playlist?list=PLctBt518bw6C32VeKsu93DWxS4S5cg6Tf)]
+* **V.-A. Le**, X. H. Le, L. Nguyen, and X. M. Phan, “An efficient adaptive hierarchical sliding mode control strategy using neural networks for 3D overhead cranes”, International Journal of Automation and Computing, vol. 16, no. 5, pp. 614–627, 2019. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0888327018302322) \| [videos](https://www.youtube.com/playlist?list=PLctBt518bw6C32VeKsu93DWxS4S5cg6Tf)]
 
 * A. T. Le, M. C. Hoang, V. T. Pham, C. N. Luong, D. T. Vu, and **V.-A. Le**, “Adaptive neural network sliding mode control of shipboard container cranes considering actuator backlash”, Mechanical Systems and Signal Processing, vol. 112, pp. 233–250, 2018. [[link](https://link.springer.com/article/10.1007/s11633-019-1174-y)]
 
