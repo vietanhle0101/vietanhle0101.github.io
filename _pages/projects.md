@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 header:
-  image: hp.jpeg
+  image: hp.png
 permalink: /research/
 author_profile: true
 ---
