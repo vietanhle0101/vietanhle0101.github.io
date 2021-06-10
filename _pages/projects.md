@@ -2,9 +2,8 @@
 layout: single
 title: "Projects"
 header:
-  image: hp.png
-  caption: "*Haiphong city, where I was born*"
-permalink: /research/
+  image: smartcities.png
+  permalink: /research/
 author_profile: true
 ---
 
