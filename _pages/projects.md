@@ -2,7 +2,7 @@
 layout: single
 title: "Projects"
 header:
-  image: smartcity.jpeg
+  image: research_theme.jpeg
 permalink: /research/
 author_profile: true
 ---
