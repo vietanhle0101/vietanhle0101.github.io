@@ -1,12 +1,11 @@
 ---
 layout: single
+title: "Projects"
 header:
   image: smartcity.jpeg
 permalink: /research/
 author_profile: true
 ---
-
-# Projects
 
 ## Learning-based Model Predictive Control with Gaussian Processes
 
