@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 excerpt: ""
 header:
-  image: hpcity.png
+  image: hp_theme.png
   caption: "*Haiphong city, where I was born*"
 author_profile: true
 redirect_from:
