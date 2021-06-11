@@ -2,7 +2,7 @@
 layout: single
 title: "Projects"
 header:
-  image: research_theme.jpeg
+  image: research_theme.png
 permalink: /research/
 author_profile: true
 ---
