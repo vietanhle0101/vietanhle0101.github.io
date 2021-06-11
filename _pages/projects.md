@@ -3,7 +3,7 @@ layout: single
 title: "Projects"
 header:
   image: smartcity.png
-  permalink: /research/
+permalink: /research/
 author_profile: true
 ---
 
