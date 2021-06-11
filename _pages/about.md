@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Mechanical Engineering at the University of Delaware, DE USA and working under the supervision of Dr. Andreas Malikopoulos in the [Information and Decision Science Lab](https://sites.udel.edu/ids-lab/people/).
+I am a PhD student in Mechanical Engineering at the University of Delaware, DE USA and working under the supervision of Dr. Andreas Malikopoulos in the [Information and Decision Science Lab](https://sites.udel.edu/ids-lab/people/).
 I received the M.Sc. degree in Informatics from Northern Arizona University, AZ USA and the B.Sc. degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2021 and 2019, respectively.
 My current research interest includes Learning-based Control, Model Predictive Control, Distributed Optimization, Multi-agent and Autonomous Systems.
 <!-- I am a Student Member of the IEEE and the IEEE Control System Society. -->
