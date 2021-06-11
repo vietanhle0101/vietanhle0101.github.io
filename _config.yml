@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Viet-Anh Le"
 title_separator          : "-"
 name                     : &name "Viet-Anh Le"
-description              : &description "PhD student at the University of Delaware"
+description              : &description "PhD student"
 url                      : https://vietanhle0101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vietanhle0101.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Viet-Anh Le"
   avatar           : "profile2.png"
-  bio              : "PhD student at the University of Delaware"
-  location         : # "Flagstaff, Arizona, USA"
+  bio              : "Ph.D. student"
+  location         : "University of Delaware, Newark, DE USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=stMa35QAAAAJ&hl=en&oi=ao"
