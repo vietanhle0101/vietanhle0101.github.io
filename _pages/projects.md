@@ -1,7 +1,7 @@
 ---
 layout: single
 header:
-  image: smartcity.png
+  image: smartcity.jpeg
 permalink: /research/
 author_profile: true
 ---
