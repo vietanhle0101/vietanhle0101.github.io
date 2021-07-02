@@ -3,7 +3,7 @@ layout: single
 title: "Past Projects"
 header:
   image: research_theme.png
-permapaper: /past_projects/
+permalink: /past_projects/
 author_profile: true
 ---
 
