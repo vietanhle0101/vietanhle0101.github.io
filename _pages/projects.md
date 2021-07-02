@@ -3,7 +3,7 @@ layout: single
 title: "Projects"
 header:
   image: research_theme.png
-permapaper: /research/
+permalink: /research/
 author_profile: true
 ---
 
