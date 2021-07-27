@@ -12,13 +12,15 @@ redirect_from:
 ---
 
 I am a PhD student in Mechanical Engineering at the University of Delaware, DE, USA and working under the supervision of **Dr. Andreas Malikopoulos** in the [**Information and Decision Science (IDS) Lab**](https://sites.udel.edu/ids-lab/people/).
-I received the M.Sc. degree in Informatics from Northern Arizona University, AZ, USA and the B.Sc. degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2021 and 2019, respectively.
+I received the MSc degree in Informatics from Northern Arizona University, AZ, USA and the BSc degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2021 and 2019, respectively.
 My current research interest includes Learning-based Control, Model Predictive Control, Distributed Optimization, Multi-agent and Autonomous Systems.
 <!-- I am a Student Member of the IEEE and the IEEE Control System Society. -->
 
 ***
 
 # News
+
+* July 2021: My joint article with Dr. Truong X. Nghiem, <em>“Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Decision and Control (CDC 2021).
 
 * May 2021: My ACC 2021 paper was presented at the conference.
 
