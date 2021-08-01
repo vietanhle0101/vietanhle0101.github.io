@@ -31,7 +31,7 @@ In collaboration with Dr. Linh Nguyen (Australia Federation University), we deve
 
 * **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks”, IEEE Sensors Journal, vol. 21, no. 13, pp. 15369-15378, 2021. [[paper](https://ieeexplore.ieee.org/document/9400422)]
 
-* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM”, in 2021 American Control Conference (ACC), accepted [[TechRxiv preprint](https://www.techrxiv.org/articles/preprint/An_Efficient_Adaptive_Sampling_Approach_for_Mobile_Robotic_Sensor_Networks_using_Proximal_ADMM/14312573)]
+* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM”, iin2021 American Control Conference (ACC), IEEE, 2021, pp. 1101–1106 [[paper](https://ieeexplore.ieee.org/document/9482987)]
 
 <hr />
 
