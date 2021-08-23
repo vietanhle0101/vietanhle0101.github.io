@@ -20,6 +20,8 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # News
 
+* August 2021: My CCTA 2021 paper was presented at the conference.
+
 * July 2021: My joint article with Dr. Truong X. Nghiem, <em>“Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Decision and Control (CDC 2021).
 
 * May 2021: My ACC 2021 paper was presented at the conference.
