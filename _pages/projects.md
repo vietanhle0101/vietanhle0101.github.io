@@ -13,7 +13,7 @@ This project aims to enhance the performance of Model Predictive Control (MPC) f
 
 ### Publications
 
-* **V.-A. Le** and T. X. Nghiem, “Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”, in 2021 IEEE Conference on Decision and Control (CDC), accepted. [[arXiv preprint](https://arxiv.org/abs/2103.14156)]
+* **V.-A. Le** and T. X. Nghiem, “Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”, in 2021 IEEE Conference on Decision and Control (CDC), accepted. [[arXiv preprint ](https://arxiv.org/abs/2103.14156)  \| [videos](https://youtu.be/U9bunkfFqnE)]
 
 * **V.-A. Le** and T. X. Nghiem, “A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”, in 2021 IEEE Conference on Control Technology and Applications (CCTA), accepted. [[arXiv preprint](https://arxiv.org/abs/2101.10351)]
 
