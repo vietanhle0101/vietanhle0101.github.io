@@ -20,7 +20,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # News
 
-<!-- * October 2021: Our team (Heeseung Bang and me) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 678/5561 (20/86 in USA). -->
+* October 2021: Our team (Heeseung Bang and me) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 678/5561 globally (20/86 in USA).
 
 * August 2021: My CCTA 2021 paper was presented at the conference.
 
