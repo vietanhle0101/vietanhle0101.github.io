@@ -22,11 +22,11 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 * October 2021: Our team (Heeseung Bang and me) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 678/5561 globally (20/86 in USA).
 
-* August 2021: My CCTA 2021 paper was presented at the conference.
+<!-- * August 2021: My CCTA 2021 paper was presented at the conference. -->
 
 * July 2021: My joint article with Dr. Truong X. Nghiem, <em>“Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Decision and Control (CDC 2021).
 
-* May 2021: My ACC 2021 paper was presented at the conference.
+<!-- * May 2021: My ACC 2021 paper was presented at the conference. -->
 
 * April 2021: My joint article with Dr. Truong X. Nghiem, <em>“A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Control Technology and Applications (CCTA 2021).
 
@@ -34,6 +34,6 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 * January 2021: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM"</em>, has been accepted to the 2021 American Control Conference (ACC 2021).
 
-* August 2020: My CCTA 2020 paper was presented at the conference.
+<!-- * August 2020: My CCTA 2020 paper was presented at the conference. -->
 
 * April 2020: My joint article with Dr. Truong X. Nghiem, <em>“Gaussian Process Based Distributed Model Predictive Control for Multi-agent Systems using Sequential Convex Programming and ADMM”</em>, has been accepted to the 2020 IEEE Conference on Control Technology and Applications (CCTA 2020).
