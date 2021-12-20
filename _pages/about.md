@@ -20,7 +20,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # News
 
-* December 2021: My CDC 2021 paper was presented at the invited session "Gaussian Process Based Identification and Control" of the conference.
+* December 2021: My CDC 2021 paper was presented at the invited session on "Gaussian Process Based Identification and Control" of the conference.
 
 * October 2021: Our team (Heeseung Bang and me) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 678/5561 globally (20/86 in USA).
 
