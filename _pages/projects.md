@@ -13,9 +13,9 @@ This project aims to enhance the performance of Model Predictive Control (MPC) f
 
 ### Publications
 
-* **V.-A. Le** and T. X. Nghiem, “Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”, in 2021 IEEE Conference on Decision and Control (CDC), accepted. [[arXiv preprint ](https://arxiv.org/abs/2103.14156)  \| [videos](https://youtu.be/U9bunkfFqnE)]
+* **V.-A. Le** and T. X. Nghiem, “Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”, in 2021 IEEE Conference on Decision and Control (CDC), accepted. [[arXiv preprint](https://arxiv.org/abs/2103.14156)  \| [videos](https://youtu.be/U9bunkfFqnE)]
 
-* **V.-A. Le** and T. X. Nghiem, “A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”, in 2021 IEEE Conference on Control Technology and Applications (CCTA), accepted. [[arXiv preprint](https://arxiv.org/abs/2101.10351)]
+* **V.-A. Le** and T. X. Nghiem, “A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”, in 2021 IEEE Conference on Control Technology and Applications (CCTA), IEEE, 2021, pp. 453–458. [[paper](https://ieeexplore.ieee.org/abstract/document/9659046)]
 
 * **V.-A. Le** and T. X. Nghiem, “Gaussian Process Based Distributed Model Predictive Control for Multi-agent Systems using Sequential Convex Programming and ADMM”, in 2020 IEEE Conference on Control Technology and Applications (CCTA), IEEE, 2020, pp. 31–36. [[paper](https://ieeexplore.ieee.org/abstract/document/9206390)]
 
@@ -27,7 +27,7 @@ In collaboration with Dr. Linh Nguyen (Australia Federation University), we deve
 
 ### Publications
 
-* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “Multi-Step Predictions for Adaptive Sampling using Proximal ADMM”, submitted to IEEE Transactions on Cybernetics. [[TechRxiv preprint](https://www.techrxiv.org/articles/preprint/Multi-Step_Predictions_for_Adaptive_Sampling_using_Proximal_ADMM/14642577/1)]
+* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “Multi-Step Predictions for Adaptive Sampling using Proximal ADMM”, submitted to IEEE Transactions on Systems, Man and Cybernetics: Systems. [[TechRxiv preprint](https://www.techrxiv.org/articles/preprint/Multi-Step_Predictions_for_Adaptive_Sampling_using_Proximal_ADMM/14642577/1)]
 
 * **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks”, IEEE Sensors Journal, vol. 21, no. 13, pp. 15369-15378, 2021. [[paper](https://ieeexplore.ieee.org/document/9400422)]
 
