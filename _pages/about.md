@@ -19,7 +19,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # News
 
-* March 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been submitted to the 10th IFAC Symposium on Advances In Automotive Control.
+* March 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been submitted to the 10th IFAC Symposium on Advances in Automotive Control.
 
 * December 2021: My CDC 2021 paper was presented at the conference, in an invited session on "Gaussian Process Based Identification and Control".
 
