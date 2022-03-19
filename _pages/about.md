@@ -19,9 +19,11 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # News
 
+* March 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been submitted to the 10th IFAC Symposium on Advances In Automotive Control.
+
 * December 2021: My CDC 2021 paper was presented at the conference, in an invited session on "Gaussian Process Based Identification and Control".
 
-* October 2021: Our team (Heeseung Bang and me) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 678/5561 globally (20/86 in USA).
+* October 2021: Our team (Heeseung Bang and I) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 678/5561 globally (20/86 in USA).
 
 <!-- * August 2021: My CCTA 2021 paper was presented at the conference. -->
 
