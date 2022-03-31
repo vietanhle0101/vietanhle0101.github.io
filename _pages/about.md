@@ -17,9 +17,9 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 ***
 
-# News
+# Recent News
 
-* March 2022: My joint article with Dr. Andreas Malikopoulos, <em>“A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”</em>, has been submitted to the 2022 IEEE Conference on Decision and Control (CDC 2021).
+* March 2022: My joint article with Dr. Andreas Malikopoulos, <em>“A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”</em>, has been submitted to the 2022 IEEE Conference on Decision and Control (CDC 2022).
 
 * March 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been submitted to the 10th IFAC Symposium on Advances in Automotive Control.
 
@@ -41,4 +41,4 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 <!-- * August 2020: My CCTA 2020 paper was presented at the conference. -->
 
-* April 2020: My joint article with Dr. Truong X. Nghiem, <em>“Gaussian Process Based Distributed Model Predictive Control for Multi-agent Systems using Sequential Convex Programming and ADMM”</em>, has been accepted to the 2020 IEEE Conference on Control Technology and Applications (CCTA 2020).
+<!-- * April 2020: My joint article with Dr. Truong X. Nghiem, <em>“Gaussian Process Based Distributed Model Predictive Control for Multi-agent Systems using Sequential Convex Programming and ADMM”</em>, has been accepted to the 2020 IEEE Conference on Control Technology and Applications (CCTA 2020). -->
