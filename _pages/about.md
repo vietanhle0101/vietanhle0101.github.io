@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Mechanical Engineering at the University of Delaware, DE, USA and working under the supervision of **Dr. Andreas Malikopoulos** in the [**Information and Decision Science (IDS) Lab**](https://sites.udel.edu/ids-lab/people/).
+I am a PhD student in Mechanical Engineering at the University of Delaware, DE, USA and working under the supervision of Dr. Andreas Malikopoulos in the [**Information and Decision Science (IDS) Lab**](https://sites.udel.edu/ids-lab/people/).
 I received the MSc degree in Informatics from Northern Arizona University, AZ, USA and the BSc degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2021 and 2019, respectively.
 My current research interest includes Learning-based Control, Model Predictive Control, Distributed Optimization, Multi-agent Systems, Connected and Automated Vehicles.
 
@@ -19,9 +19,9 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
-* March 2022: My joint article with Dr. Andreas Malikopoulos, <em>“A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”</em>, has been submitted to the 2022 IEEE Conference on Decision and Control (CDC 2022).
+* March 2022: My joint article with Dr. Andreas Malikopoulos, <em>“A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”</em>, has been submitted to the 2022 IEEE Conference on Decision and Control (CDC 2022) [[arXiv preprint]](https://arxiv.org/abs/2203.17106).
 
-* March 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been submitted to the 10th IFAC Symposium on Advances in Automotive Control.
+* March 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been submitted to the 10th IFAC Symposium on Advances in Automotive Control [[arXiv preprint]](https://arxiv.org/abs/2203.05739).
 
 * December 2021: My CDC 2021 paper was presented at the conference, in an invited session on "Gaussian Process Based Identification and Control".
 
