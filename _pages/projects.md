@@ -7,9 +7,23 @@ permalink: /research/
 author_profile: true
 ---
 
+## Control for Connected and Automated Vehicles in Mixed Traffic Environments
+
+In this project, I and other members of the IDS Lab develop intelligent control methods for connected and automated vehicles in different traffic scenarios with the presence of human-driven vehicles. The control methods lie at the intersection of optimal control, machine learning, game theory, etc.
+
+### Publications
+
+* **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, submitted to 2022 IEEE Conference on Decision and Control (CDC). [[arXiv preprint]](https://arxiv.org/abs/2203.17106)
+
+* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”, submitted to 10th IFAC Symposium on Advances in Automotive Control. [[arXiv preprint]](https://arxiv.org/abs/2203.05739)
+
+<hr />
+
+# Past projects
+
 ## Learning-based Model Predictive Control with Gaussian Processes
 
-This project aims to enhance the performance of Model Predictive Control (MPC) for single dynamical systems or multi-agent systems by using Gaussian Processes (GPs) to learn system dynamics.
+This project aims to enhance the performance of model predictive control for single dynamical systems or multi-agent systems by using Gaussian processes to learn system dynamics.
 
 ### Publications
 
@@ -23,7 +37,7 @@ This project aims to enhance the performance of Model Predictive Control (MPC) f
 
 ## Adaptive Sampling for Mobile Robotic Sensor Networks
 
-In collaboration with Dr. Linh Nguyen (Australia Federation University), we develop efficient adaptive sampling strategies for Mobile Robotic Sensor Networks for monitoring a spatial phenomenon by using Gaussian Process.
+In collaboration with Dr. Linh Nguyen (Australia Federation University), we develop efficient adaptive sampling strategies for mobile robotic sensor networks for monitoring a spatial phenomenon by using Gaussian process.
 
 ### Publications
 
@@ -34,8 +48,6 @@ In collaboration with Dr. Linh Nguyen (Australia Federation University), we deve
 * **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM”, in 2021 American Control Conference (ACC), IEEE, 2021, pp. 1101–1106. [[paper](https://ieeexplore.ieee.org/document/9482987)]
 
 <hr />
-
-# Past projects
 
 ## Modeling and Control of Overhead Cranes/Ship-mounted Cranes
 
