@@ -15,7 +15,9 @@ In this project, I and other members of the IDS Lab develop intelligent control 
 
 * **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, submitted to 2022 IEEE Conference on Decision and Control (CDC). [[arXiv preprint]](https://arxiv.org/abs/2203.17106)
 
-* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”, submitted to 10th IFAC Symposium on Advances in Automotive Control. [[arXiv preprint]](https://arxiv.org/abs/2203.05739)
+* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Prioritized Receding Horizon Control Framework for Platoon Formation in a Mixed Traffic Environment”, IEEE Transactions on Control Systems Technology [[arXiv preprint]](https://arxiv.org/abs/2205.10673)
+
+* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”, in 10th IFAC Symposium on Advances in Automotive Control, accepted. [[arXiv preprint]](https://arxiv.org/abs/2203.05739)
 
 <hr />
 
@@ -27,7 +29,7 @@ This project aims to enhance the performance of model predictive control for sin
 
 ### Publications
 
-* **V.-A. Le** and T. X. Nghiem, “Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”, in 2021 IEEE Conference on Decision and Control (CDC), accepted. [[arXiv preprint](https://arxiv.org/abs/2103.14156)  \| [videos](https://youtu.be/U9bunkfFqnE)]
+* **V.-A. Le** and T. X. Nghiem, “Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”, in 2021 IEEE Conference on Decision and Control (CDC), IEEE, 2021, pp. 2226–2231. [[paper](https://ieeexplore.ieee.org/abstract/document/9682906)  \| [videos](https://youtu.be/U9bunkfFqnE)]
 
 * **V.-A. Le** and T. X. Nghiem, “A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”, in 2021 IEEE Conference on Control Technology and Applications (CCTA), IEEE, 2021, pp. 453–458. [[paper](https://ieeexplore.ieee.org/abstract/document/9659046)]
 
@@ -41,7 +43,7 @@ In collaboration with Dr. Linh Nguyen (Australia Federation University), we deve
 
 ### Publications
 
-* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “Multi-Step Predictions for Adaptive Sampling using Proximal ADMM”, submitted to IEEE Transactions on Systems, Man and Cybernetics: Systems. [[TechRxiv preprint](https://www.techrxiv.org/articles/preprint/Multi-Step_Predictions_for_Adaptive_Sampling_using_Proximal_ADMM/14642577/1)]
+* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “Multi-Step Predictions for Adaptive Sampling using Proximal ADMM”, submitted to IEEE Access. [[TechRxiv preprint](https://www.techrxiv.org/articles/preprint/Multi-Step_Predictions_for_Adaptive_Sampling_using_Proximal_ADMM/14642577/1)]
 
 * **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks”, IEEE Sensors Journal, vol. 21, no. 13, pp. 15369-15378, 2021. [[paper](https://ieeexplore.ieee.org/document/9400422)]
 
