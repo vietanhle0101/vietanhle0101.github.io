@@ -15,7 +15,7 @@ In this project, I and other members of the IDS Lab develop intelligent control 
 
 * **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, submitted to 2022 IEEE Conference on Decision and Control (CDC). [[arXiv preprint]](https://arxiv.org/abs/2203.17106)
 
-* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”, IEEE Transactions on Control Systems Technology [[arXiv preprint]](https://arxiv.org/abs/2205.10673)
+* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”, submitted to Automatica [[arXiv preprint]](https://arxiv.org/abs/2205.10673)
 
 * A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”, in 10th IFAC Symposium on Advances in Automotive Control, accepted. [[arXiv preprint]](https://arxiv.org/abs/2203.05739)
 
