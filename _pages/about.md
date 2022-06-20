@@ -19,7 +19,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
-* June 2022: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"Multi-Step Predictions for Adaptive Sampling using Proximal ADMM"</em>, has been accepted for publication in IEEE Access.
+* June 2022: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"Multi-Step Predictions for Adaptive Sampling using Proximal ADMM"</em>, has been accepted for publication in IEEE Access [[paper]](https://ieeexplore.ieee.org/document/9797705).
 
 * May 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for Platoon Formation in a Mixed Traffic Environment”</em>, has been submitted to Automatica [[arXiv preprint]](https://arxiv.org/abs/2205.10673).
 
