@@ -9,7 +9,7 @@ author_profile: true
 
 ## Control for Connected and Automated Vehicles in Mixed Traffic Environments
 
-In this project, I and other members of the IDS Lab develop intelligent control methods for connected and automated vehicles in different traffic scenarios with the presence of human-driven vehicles. The foundation of these control methods lies at the intersection of optimal or predictive control, machine learning, game theory, etc.
+In this project, we develop intelligent motion planning and control methods for connected and automated vehicles in different traffic scenarios with the presence of human-driven vehicles. The foundation of these control methods lies at the intersection of optimal or predictive control, machine learning, and game theory.
 
 ### Publications
 
