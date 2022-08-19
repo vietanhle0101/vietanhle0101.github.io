@@ -20,9 +20,9 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 * July 2022: My joint article with Dr. Andreas Malikopoulos, <em>“A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”</em>, has been accepted to the 2022 IEEE Conference on Decision and Control (CDC 2022) [[arXiv preprint]](https://arxiv.org/abs/2203.17106).
 
-* June 2022: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"Multi-Step Predictions for Adaptive Sampling using Proximal ADMM"</em>, has been accepted for publication in IEEE Access [[paper]](https://ieeexplore.ieee.org/document/9797705).
+* June 2022: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"Multistep Predictions for Adaptive Sampling in Mobile Robotic Sensor Networks Using Proximal ADMM"</em>, has been accepted for publication in IEEE Access [[paper]](https://ieeexplore.ieee.org/document/9797705).
 
-* May 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for Platoon Formation in a Mixed Traffic Environment”</em>, has been submitted to Automatica [[arXiv preprint]](https://arxiv.org/abs/2205.10673).
+<!-- * May 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for Platoon Formation in a Mixed Traffic Environment”</em>, has been submitted to Automatica [[arXiv preprint]](https://arxiv.org/abs/2205.10673). -->
 
 * May 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been accepted to the 10th IFAC Symposium on Advances in Automotive Control [[arXiv preprint]](https://arxiv.org/abs/2203.05739).
 

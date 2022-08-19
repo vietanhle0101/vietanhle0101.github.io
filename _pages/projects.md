@@ -9,7 +9,7 @@ author_profile: true
 
 ## Control for Connected and Automated Vehicles in Mixed Traffic Environments
 
-In this project, we develop intelligent motion planning and control methods for connected and automated vehicles in different traffic scenarios with the presence of human-driven vehicles. The foundation of these control methods lies at the intersection of optimal or predictive control, machine learning, and game theory.
+In this project, we develop intelligent motion planning and control methods for connected and automated vehicles in different traffic scenarios with the presence of human-driven vehicles. The foundation of these control methods lies at the intersection of optimal or predictive control, optimization, machine learning, and game theory.
 
 ### Publications
 
@@ -43,7 +43,7 @@ In collaboration with Dr. Linh Nguyen (Australia Federation University), we deve
 
 ### Publications
 
-* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “Multi-Step Predictions for Adaptive Sampling using Proximal ADMM”, IEEE Access. [[paper](https://ieeexplore.ieee.org/document/9797705)]
+* **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “Multistep Predictions for Adaptive Sampling in Mobile Robotic Sensor Networks Using Proximal ADMM”, IEEE Access. [[paper](https://ieeexplore.ieee.org/document/9797705)]
 
 * **V.-A. Le**, L. Nguyen, and T. X. Nghiem, “ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks”, IEEE Sensors Journal, vol. 21, no. 13, pp. 15369-15378, 2021. [[paper](https://ieeexplore.ieee.org/document/9400422)]
 
