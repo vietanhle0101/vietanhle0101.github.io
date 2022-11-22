@@ -15,9 +15,10 @@ In this project, we develop intelligent motion planning and control methods for 
 
 * **V.-A. Le** and A. A. Malikopoulos, “Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”, submitted to 2023 American Control Conference (ACC). [[arXiv preprint](https://arxiv.org/abs/2210.00700) \| [website](https://sites.google.com/view/ud-ids-lab/mpc-bayesopt)]
 
-* **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, in 2022 IEEE Conference on Decision and Control (CDC), accepted. [[arXiv preprint](https://arxiv.org/abs/2203.17106) \| [website](https://sites.google.com/view/ud-ids-lab/socially-cooperative-control)]
+* **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, in 2022 IEEE Conference on Decision and Control (CDC), accepted. [[arXiv preprint](https://arxiv.org/abs/2203.17106) \| [website](https://sites.google.com/view/ud-ids-lab/socially-cooperative-control) \| [video](https://youtu.be/xHdO6EDUfCQ)]
 
-* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”, in 10th IFAC Symposium on Advances in Automotive Control, accepted. [[arXiv preprint]](https://arxiv.org/abs/2203.05739)
+* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”, in 10th IFAC International Symposium on
+Advances in Automotive Control, IFAC, 2022, pp. 51–56. [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935)
 
 * A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”, submitted to Automatica. [[arXiv preprint]](https://arxiv.org/abs/2205.10673)
 
@@ -31,7 +32,7 @@ This project aims to enhance the performance of model predictive control for sin
 
 ### Publications
 
-* **V.-A. Le** and T. X. Nghiem, “Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”, in 2021 IEEE Conference on Decision and Control (CDC), IEEE, 2021, pp. 2226–2231. [[paper](https://ieeexplore.ieee.org/abstract/document/9682906)  \| [videos](https://youtu.be/U9bunkfFqnE)]
+* **V.-A. Le** and T. X. Nghiem, “Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”, in 2021 IEEE Conference on Decision and Control (CDC), IEEE, 2021, pp. 2226–2231. [[paper](https://ieeexplore.ieee.org/abstract/document/9682906)  \| [video](https://youtu.be/U9bunkfFqnE)]
 
 * **V.-A. Le** and T. X. Nghiem, “A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”, in 2021 IEEE Conference on Control Technology and Applications (CCTA), IEEE, 2021, pp. 453–458. [[paper](https://ieeexplore.ieee.org/abstract/document/9659046)]
 
