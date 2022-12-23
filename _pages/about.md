@@ -26,7 +26,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 <!-- * May 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for Platoon Formation in a Mixed Traffic Environment”</em>, has been submitted to Automatica [[arXiv preprint]](https://arxiv.org/abs/2205.10673). -->
 
-* May 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been accepted to the 10th IFAC Symposium on Advances in Automotive Control [[arXiv preprint]](https://arxiv.org/abs/2203.05739).
+* May 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been accepted to the 10th IFAC Symposium on Advances in Automotive Control [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935).
 
 <!-- * December 2021: My CDC 2021 paper was presented at the conference, in an invited session on "Gaussian Process Based Identification and Control". -->
 
