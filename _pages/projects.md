@@ -13,9 +13,9 @@ In this project, we develop intelligent motion planning and control methods for 
 
 ### Publications
 
-* **V.-A. Le** and A. A. Malikopoulos, “Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”, submitted to 2023 American Control Conference (ACC). [[arXiv preprint](https://arxiv.org/abs/2210.00700) \| [website](https://sites.google.com/view/ud-ids-lab/mpc-bayesopt)]
+* **V.-A. Le** and A. A. Malikopoulos, “Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”, in 2023 American Control Conference (ACC), accepted. [[arXiv preprint](https://arxiv.org/abs/2210.00700) \| [website](https://sites.google.com/view/ud-ids-lab/mpc-bayesopt)]
 
-* **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, in 2022 IEEE Conference on Decision and Control (CDC), accepted. [[arXiv preprint](https://arxiv.org/abs/2203.17106) \| [website](https://sites.google.com/view/ud-ids-lab/socially-cooperative-control) \| [video](https://youtu.be/xHdO6EDUfCQ)]
+* **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, in 2022 IEEE Conference on Decision and Control (CDC), IEEE, 2022, pp.6272-6277. [[arXiv preprint](https://arxiv.org/abs/2203.17106) \| [website](https://sites.google.com/view/ud-ids-lab/socially-cooperative-control) \| [video](https://youtu.be/xHdO6EDUfCQ)]
 
 * A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”, in 10th IFAC International Symposium on
 Advances in Automotive Control, IFAC, 2022, pp. 51–56. [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935)

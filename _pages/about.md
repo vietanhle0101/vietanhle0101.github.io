@@ -18,6 +18,8 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
+* January 2023: My joint article with Dr. Andreas Malikopoulos, <em>“Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”</em>, has been accepted to the 2023 American Control Conference (ACC 2023) [[arXiv preprint]](https://arxiv.org/abs/2210.00700).
+
 * October 2022: Our team (Heeseung Bang and I) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 949/6373 globally (12/99 in USA).
 
 * July 2022: My joint article with Dr. Andreas Malikopoulos, <em>“A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”</em>, has been accepted to the 2022 IEEE Conference on Decision and Control (CDC 2022) [[arXiv preprint]](https://arxiv.org/abs/2203.17106).
