@@ -18,7 +18,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
-* March 2023: I will start an internship position at Honda Research Institute in Michigan, USA this summer.
+* March 2023: I will join Honda Research Institute (Michigan, USA) as an internship student this summer.
 
 * January 2023: My joint article with Dr. Andreas Malikopoulos, <em>“Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”</em>, has been accepted to the 2023 American Control Conference (ACC 2023) [[arXiv preprint]](https://arxiv.org/abs/2210.00700).
 
