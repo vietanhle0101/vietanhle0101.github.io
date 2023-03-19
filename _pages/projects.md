@@ -15,12 +15,12 @@ In this project, we develop intelligent motion planning and control methods for 
 
 * **V.-A. Le** and A. A. Malikopoulos, “Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”, in 2023 American Control Conference (ACC), accepted. [[arXiv preprint](https://arxiv.org/abs/2210.00700) \| [website](https://sites.google.com/view/ud-ids-lab/mpc-bayesopt)]
 
-* **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, in 2022 IEEE Conference on Decision and Control (CDC), IEEE, 2022, pp.6272-6277. [[arXiv preprint](https://arxiv.org/abs/2203.17106) \| [website](https://sites.google.com/view/ud-ids-lab/socially-cooperative-control) \| [video](https://youtu.be/xHdO6EDUfCQ)]
+* **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, in 2022 IEEE Conference on Decision and Control (CDC), IEEE, 2022, pp.6272-6277. [[paper](https://ieeexplore.ieee.org/document/9993337) \| [website](https://sites.google.com/view/ud-ids-lab/socially-cooperative-control) \| [video](https://youtu.be/xHdO6EDUfCQ)]
 
 * A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”, in 10th IFAC International Symposium on
 Advances in Automotive Control, IFAC, 2022, pp. 51–56. [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935)
 
-* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”, submitted to Automatica. [[arXiv preprint]](https://arxiv.org/abs/2205.10673)
+* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”, Automatica (accepted). [[arXiv preprint]](https://arxiv.org/abs/2205.10673)
 
 <hr />
 

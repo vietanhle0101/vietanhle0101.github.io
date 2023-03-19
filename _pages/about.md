@@ -18,6 +18,8 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
+* March 2023: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”</em>, has been accepted for publication in Automatica [[arXiv preprint]](https://arxiv.org/abs/2205.10673).
+
 * March 2023: I will join Honda Research Institute (Michigan, USA) as an internship student this summer.
 
 * January 2023: My joint article with Dr. Andreas Malikopoulos, <em>“Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”</em>, has been accepted to the 2023 American Control Conference (ACC 2023) [[arXiv preprint]](https://arxiv.org/abs/2210.00700).
