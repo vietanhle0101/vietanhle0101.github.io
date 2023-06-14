@@ -17,10 +17,10 @@ In this project, we develop intelligent motion planning and control methods for 
 
 * **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, in 2022 IEEE Conference on Decision and Control (CDC), IEEE, 2022, pp.6272-6277. [[paper](https://ieeexplore.ieee.org/document/9993337) \| [website](https://sites.google.com/view/ud-ids-lab/socially-cooperative-control) \| [video](https://youtu.be/xHdO6EDUfCQ)]
 
+* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”, Automatica, vol. 155, p. 111115, 2023. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0005109823002753)
+
 * A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”, in 10th IFAC International Symposium on
 Advances in Automotive Control, IFAC, 2022, pp. 51–56. [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935)
-
-* A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”, Automatica (accepted). [[arXiv preprint]](https://arxiv.org/abs/2205.10673)
 
 <hr />
 
