@@ -26,7 +26,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 * October 2022: Our team (Heeseung Bang and I) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 949/6373 globally (12/99 in USA).
 
-* July 2022: My joint article with Dr. Andreas Malikopoulos, <em>“A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”</em>, has been accepted to the 2022 IEEE Conference on Decision and Control (CDC 2022) [[paper](https://ieeexplore.ieee.org/document/9993337).
+* July 2022: My joint article with Dr. Andreas Malikopoulos, <em>“A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”</em>, has been accepted to the 2022 IEEE Conference on Decision and Control (CDC 2022) [[paper]](https://ieeexplore.ieee.org/document/9993337).
 
 * June 2022: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"Multistep Predictions for Adaptive Sampling in Mobile Robotic Sensor Networks Using Proximal ADMM"</em>, has been accepted for publication in IEEE Access [[paper]](https://ieeexplore.ieee.org/document/9797705).
 
