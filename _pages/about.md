@@ -18,7 +18,8 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
-* July 2023: My joint article with Hao M. Wang, Dr. Gabor Orosz, and Dr. Andreas Malikopoulos, <em>“Coordination for Connected Automated Vehicles at Merging Roadways in Mixed Traffic Environment”</em>, has been accepted to the 2023 IEEE Conference on Decision and Control (CDC 2022).
+* July 2023: My joint article with Hao M. Wang, Dr. Gabor Orosz, and Dr. Andreas Malikopoulos, <em>“Coordination for Connected Automated Vehicles at Merging Roadways in Mixed Traffic Environment”</em>, and my joint article with Nishanth Venkatesh, Aditya Dave, and Dr. Andreas A Malikopoulos, <em>“Connected and Automated Vehicles in Mixed-Traffic: Learning Human Driver Behavior for Effective On-Ramp Merging
+”</em>, have been accepted to the 2023 IEEE Conference on Decision and Control (CDC 2022).
 
 * June 2023: I have joined Honda Research Institute (Michigan, USA) as a research intern this summer.
 
