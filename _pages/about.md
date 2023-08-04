@@ -18,11 +18,13 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
+* July 2023: My joint article with Hao M. Wang, Dr. Gabor Orosz, and Dr. Andreas Malikopoulos, <em>“Coordination for Connected Automated Vehicles at Merging Roadways in Mixed Traffic Environment”</em>, has been accepted to the 2023 IEEE Conference on Decision and Control (CDC 2022).
+
 * June 2023: I have joined Honda Research Institute (Michigan, USA) as a research intern this summer.
 
 * March 2023: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”</em>, has been accepted for publication in Automatica [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935).
 
-* January 2023: My joint article with Dr. Andreas Malikopoulos, <em>“Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”</em>, has been accepted to the 2023 American Control Conference (ACC 2023) [[arXiv preprint]](https://arxiv.org/abs/2210.00700).
+* January 2023: My joint article with Dr. Andreas Malikopoulos, <em>“Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”</em>, has been accepted to the 2023 American Control Conference (ACC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10155950/).
 
 * October 2022: Our team (Heeseung Bang and I) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 949/6373 globally (12/99 in USA).
 
