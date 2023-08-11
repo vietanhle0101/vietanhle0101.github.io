@@ -10,16 +10,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Mechanical Engineering with an emphasis on Robotics & Control at the University of Delaware, DE, USA and working under the supervision of Dr. Andreas Malikopoulos in the [**Information and Decision Science (IDS) Lab**](https://sites.udel.edu/ids-lab/people/).
+I am a PhD student in Mechanical Engineering with an emphasis on Robotics & Control at the University of Delaware, DE, USA and a visiting (non-degree) graduate student in System Engineering at Cornell University, NY, USA.
+I work under the supervision of Dr. Andreas Malikopoulos in the [**Information and Decision Science (IDS) Lab**](https://sites.udel.edu/ids-lab/people/).
 I received the MSc degree in Informatics from Northern Arizona University, AZ, USA and the BSc degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2021 and 2019, respectively.
+From June to August 2023, I was a research intern at Honda Research Institute USA.
 My current research interest includes Learning-based Control, Model Predictive Control, Distributed Optimization, and Multi-agent Systems, with a typical application in Connected and Automated Vehicles.
 
 ***
 
 # Recent News
 
+* August 2023: I have joined Cornell University as a visiting (non-degree) graduate student in System Engineering, and still work with Dr. Andreas Malikopoulos. 
+
 * July 2023: My joint article with Hao M. Wang, Dr. Gabor Orosz, and Dr. Andreas Malikopoulos, <em>“Coordination for Connected Automated Vehicles at Merging Roadways in Mixed Traffic Environment”</em>, and my joint article with Nishanth Venkatesh, Aditya Dave, and Dr. Andreas Malikopoulos, <em>“Connected and Automated Vehicles in Mixed-Traffic: Learning Human Driver Behavior for Effective On-Ramp Merging
-”</em>, have been accepted to the 2023 IEEE Conference on Decision and Control (CDC 2022).
+”</em>, have been accepted to the 2023 IEEE Conference on Decision and Control (CDC 2023).
 
 * June 2023: I have joined Honda Research Institute USA as a research intern this summer.
 
