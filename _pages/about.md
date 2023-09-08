@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Mechanical Engineering with an emphasis on Robotics & Control at the University of Delaware, DE, USA and a visiting (non-degree) graduate student in System Engineering at Cornell University, NY, USA.
+I am a PhD candidate in Mechanical Engineering with an emphasis on Robotics & Control at the University of Delaware, DE, USA and a visiting (non-degree) graduate student in System Engineering at Cornell University, NY, USA.
 I work under the supervision of Dr. Andreas Malikopoulos in the [**Information and Decision Science (IDS) Lab**](https://sites.udel.edu/ids-lab/people/).
 I received the MSc degree in Informatics from Northern Arizona University, AZ, USA and the BSc degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2021 and 2019, respectively.
 From June to August 2023, I was a research intern at Honda Research Institute USA.
