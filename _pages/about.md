@@ -20,6 +20,8 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
+* Oct 2023: My joint work with Honda Research Institute USA team, <em>“Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction</em>, was presented at the 2nd Workshop on Social Robot Navigation: Advances and Evaluation, IEEE International Conference on Intelligent Robots and Systems (IROS2023) [[paper]](https://seanavbench23.pages.dev/papers/Social%20Navigation%20in%20Crowded%20Environments%20with%20Model%20Predictive%20Control%20and%20Deep%20Learning-Based%20Human%20Trajector%20Prediction.pdf).
+
 * August 2023: I have joined Cornell University as a visiting (non-degree) graduate student in System Engineering, and still work with Dr. Andreas Malikopoulos. 
 
 * July 2023: My joint article with Hao M. Wang, Dr. Gabor Orosz, and Dr. Andreas Malikopoulos, <em>“Coordination for Connected Automated Vehicles at Merging Roadways in Mixed Traffic Environment”</em>, and my joint article with Nishanth Venkatesh, Aditya Dave, and Dr. Andreas Malikopoulos, <em>“Connected and Automated Vehicles in Mixed-Traffic: Learning Human Driver Behavior for Effective On-Ramp Merging
