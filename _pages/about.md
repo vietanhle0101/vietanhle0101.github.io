@@ -27,7 +27,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 * August 2023: I have joined Cornell University as a visiting (non-degree) graduate student in System Engineering, and still work with Dr. Andreas Malikopoulos. 
 
-* July 2023: My joint article with Hao M. Wang, Dr. Gabor Orosz, and Dr. Andreas Malikopoulos, <em>“Coordination for Connected Automated Vehicles at Merging Roadways in Mixed Traffic Environment”</em>, and my joint article with Nishanth Venkatesh, Aditya Dave, and Dr. Andreas Malikopoulos, <em>“Connected and Automated Vehicles in Mixed-Traffic: Learning Human Driver Behavior for Effective On-Ramp Merging”</em>, have been accepted to the 2023 IEEE Conference on Decision and Control (CDC 2023).
+* July 2023: My joint article with Hao M. Wang, Dr. Gabor Orosz, and Dr. Andreas Malikopoulos, <em>“Coordination for Connected Automated Vehicles at Merging Roadways in Mixed Traffic Environment” </em> [[paper]](https://ieeexplore.ieee.org/document/10383318), and my joint article with Nishanth Venkatesh, Aditya Dave, and Dr. Andreas Malikopoulos, <em>“Connected and Automated Vehicles in Mixed-Traffic: Learning Human Driver Behavior for Effective On-Ramp Merging”</em> [[paper]](https://ieeexplore.ieee.org/document/10383913), have been accepted to the 2023 IEEE Conference on Decision and Control (CDC 2023).
 
 * June 2023: I have joined Honda Research Institute USA as a research intern this summer.
 
