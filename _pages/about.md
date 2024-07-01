@@ -20,10 +20,13 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
+* June 2024: My joint article with Behdad Chalaki, Filippos Tzortzoglou, and Dr. Andreas Malikopoulos, <em>Stochastic time-optimal trajectory planning for connected and automated vehicles in mixed-traffic merging scenarios </em> has been accepted for publication in the IEEE Transactions on Control Systems Technology, Special Issue on Intelligent Decision Making, Planning and Control of Automated Vehicles [[arXiv preprint]](https://arxiv.org/abs/2311.00126/).
+
+* June 2024: My joint work with Honda Research Institute USA team, <em>"Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction"</em>, has been accepted to the 2024 IEEE International Conference on Intelligent Robots and Systems (IROS2024) [[arXiv preprint]](https://arxiv.org/abs/2309.16838/).
+
 * January 2024: My joint work with Honda Research Institute USA team, <em>"Multi-Robot Cooperative Navigation in Crowds: A Game-Theoretic Learning-Based Model Predictive Control Approach"</em>, has been accepted to the 2024 IEEE International Conference on Robotics and Automation (ICRA 2024) [[arXiv preprint]](https://arxiv.org/abs/2310.06964/).
 
-
-* October 2023: My joint work with Honda Research Institute USA team, <em>"Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction"</em>, was presented at the 2nd Workshop on Social Robot Navigation: Advances and Evaluation, IEEE International Conference on Intelligent Robots and Systems (IROS2023) [[paper]](https://seanavbench23.pages.dev/papers/Social%20Navigation%20in%20Crowded%20Environments%20with%20Model%20Predictive%20Control%20and%20Deep%20Learning-Based%20Human%20Trajector%20Prediction.pdf).
+<!-- * October 2023: My joint work with Honda Research Institute USA team, <em>"Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction"</em>, was presented at the 2nd Workshop on Social Robot Navigation: Advances and Evaluation, IEEE International Conference on Intelligent Robots and Systems (IROS2023) [[paper]](https://seanavbench23.pages.dev/papers/Social%20Navigation%20in%20Crowded%20Environments%20with%20Model%20Predictive%20Control%20and%20Deep%20Learning-Based%20Human%20Trajector%20Prediction.pdf). -->
 
 * August 2023: I have joined Cornell University as a visiting (non-degree) graduate student in System Engineering, and still work with Dr. Andreas Malikopoulos. 
 
@@ -47,19 +50,19 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 <!-- * December 2021: My CDC 2021 paper was presented at the conference, in an invited session on "Gaussian Process Based Identification and Control". -->
 
-* October 2021: Our team (Heeseung Bang and I) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 678/5561 globally (20/86 in USA).
+<!-- * October 2021: Our team (Heeseung Bang and I) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 678/5561 globally (20/86 in USA). -->
 
 <!-- * August 2021: My CCTA 2021 paper was presented at the conference. -->
 
-* July 2021: My joint article with Dr. Truong X. Nghiem, <em>“Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Decision and Control (CDC 2021).
+<!-- * July 2021: My joint article with Dr. Truong X. Nghiem, <em>“Distributed Experiment Design and Control for Multi-agent Systems with Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Decision and Control (CDC 2021). -->
 
 <!-- * May 2021: My ACC 2021 paper was presented at the conference. -->
 
-* April 2021: My joint article with Dr. Truong X. Nghiem, <em>“A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Control Technology and Applications (CCTA 2021).
+<!-- * April 2021: My joint article with Dr. Truong X. Nghiem, <em>“A Receding Horizon Approach for Simultaneous Active Learning and Control using Gaussian Processes”</em>, has been accepted to the 2021 IEEE Conference on Control Technology and Applications (CCTA 2021).
 
 * April 2021: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"ADMM-based Adaptive Sampling Strategy for Nonholonomic Mobile Robotic Sensor Networks"</em>, has been accepted for publication in IEEE Sensors Journal.
 
-* January 2021: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM"</em>, has been accepted to the 2021 American Control Conference (ACC 2021).
+* January 2021: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"An Efficient Adaptive Sampling Approach for Mobile Robotic Sensor Networks using Proximal ADMM"</em>, has been accepted to the 2021 American Control Conference (ACC 2021). -->
 
 <!-- * August 2020: My CCTA 2020 paper was presented at the conference. -->
 
