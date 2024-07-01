@@ -20,7 +20,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
-* June 2024: My joint article with Behdad Chalaki, Filippos Tzortzoglou, and Dr. Andreas Malikopoulos, <em>Stochastic time-optimal trajectory planning for connected and automated vehicles in mixed-traffic merging scenarios </em> has been accepted for publication in the IEEE Transactions on Control Systems Technology, Special Issue on Intelligent Decision Making, Planning and Control of Automated Vehicles [[arXiv preprint]](https://arxiv.org/abs/2311.00126/).
+* June 2024: My joint article with Behdad Chalaki, Filippos Tzortzoglou, and Dr. Andreas Malikopoulos, <em>"Stochastic Time-Optimal Trajectory Planning for Connected and Automated Vehicles in Mixed-Traffic Merging Scenarios"</em> has been accepted for publication in the IEEE Transactions on Control Systems Technology, Special Issue on Intelligent Decision Making, Planning and Control of Automated Vehicles [[arXiv preprint]](https://arxiv.org/abs/2311.00126/).
 
 * June 2024: My joint work with Honda Research Institute USA team, <em>"Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction"</em>, has been accepted to the 2024 IEEE International Conference on Intelligent Robots and Systems (IROS2024) [[arXiv preprint]](https://arxiv.org/abs/2309.16838/).
 
