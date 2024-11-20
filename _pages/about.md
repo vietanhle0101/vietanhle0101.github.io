@@ -20,11 +20,11 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
-* June 2024: My joint article with Behdad Chalaki, Filippos Tzortzoglou, and Dr. Andreas Malikopoulos, <em>"Stochastic Time-Optimal Trajectory Planning for Connected and Automated Vehicles in Mixed-Traffic Merging Scenarios"</em> has been accepted for publication in the IEEE Transactions on Control Systems Technology, Special Issue on Intelligent Decision Making, Planning and Control of Automated Vehicles [[arXiv preprint]](https://arxiv.org/abs/2311.00126/).
+* June 2024: My joint article with Behdad Chalaki, Filippos Tzortzoglou, and Dr. Andreas Malikopoulos, <em>"Stochastic Time-Optimal Trajectory Planning for Connected and Automated Vehicles in Mixed-Traffic Merging Scenarios"</em> has been accepted for publication in the IEEE Transactions on Control Systems Technology, Special Issue on Intelligent Decision Making, Planning and Control of Automated Vehicles [[paper]](https://ieeexplore.ieee.org/abstract/document/10621701).
 
 * June 2024: My joint work with Honda Research Institute USA team, <em>"Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction"</em>, has been accepted to the 2024 IEEE International Conference on Intelligent Robots and Systems (IROS2024) [[arXiv preprint]](https://arxiv.org/abs/2309.16838/).
 
-* January 2024: My joint work with Honda Research Institute USA team, <em>"Multi-Robot Cooperative Navigation in Crowds: A Game-Theoretic Learning-Based Model Predictive Control Approach"</em>, has been accepted to the 2024 IEEE International Conference on Robotics and Automation (ICRA 2024) [[arXiv preprint]](https://arxiv.org/abs/2310.06964/).
+* January 2024: My joint work with Honda Research Institute USA team, <em>"Multi-Robot Cooperative Navigation in Crowds: A Game-Theoretic Learning-Based Model Predictive Control Approach"</em>, has been accepted to the 2024 IEEE International Conference on Robotics and Automation (ICRA 2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10611204).
 
 <!-- * October 2023: My joint work with Honda Research Institute USA team, <em>"Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction"</em>, was presented at the 2nd Workshop on Social Robot Navigation: Advances and Evaluation, IEEE International Conference on Intelligent Robots and Systems (IROS2023) [[paper]](https://seanavbench23.pages.dev/papers/Social%20Navigation%20in%20Crowded%20Environments%20with%20Model%20Predictive%20Control%20and%20Deep%20Learning-Based%20Human%20Trajector%20Prediction.pdf). -->
 
