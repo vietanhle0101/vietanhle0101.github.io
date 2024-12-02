@@ -20,6 +20,8 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
+* November 2024: My joint article with Dr. Andreas Malikopoulos, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> has been accepted for publication in the IEEE Control Systems Letters [[arXiv preprint]](https://arxiv.org/abs/2409.10864).
+
 * June 2024: My joint article with Behdad Chalaki, Filippos Tzortzoglou, and Dr. Andreas Malikopoulos, <em>"Stochastic Time-Optimal Trajectory Planning for Connected and Automated Vehicles in Mixed-Traffic Merging Scenarios"</em> has been accepted for publication in the IEEE Transactions on Control Systems Technology, Special Issue on Intelligent Decision Making, Planning and Control of Automated Vehicles [[paper]](https://ieeexplore.ieee.org/abstract/document/10621701).
 
 * June 2024: My joint work with Honda Research Institute USA team, <em>"Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction"</em>, has been accepted to the 2024 IEEE International Conference on Intelligent Robots and Systems (IROS2024) [[arXiv preprint]](https://arxiv.org/abs/2309.16838/).
@@ -34,7 +36,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 * June 2023: I have joined Honda Research Institute USA as a research intern this summer.
 
-* March 2023: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”</em>, has been accepted for publication in Automatica [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935).
+* March 2023: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/reel/1387514409318685) in a Mixed Traffic Environment”</em>, has been accepted for publication in Automatica [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935).
 
 * January 2023: My joint article with Dr. Andreas Malikopoulos, <em>“Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”</em>, has been accepted to the 2023 American Control Conference (ACC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10155950/).
 
