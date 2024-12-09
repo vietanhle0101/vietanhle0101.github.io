@@ -13,9 +13,17 @@ In this project, we develop intelligent motion planning and control methods for 
 
 ### Publications
 
-* **V.-A. Le** and A. A. Malikopoulos, “Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”, in 2023 American Control Conference (ACC), accepted. [[arXiv preprint](https://arxiv.org/abs/2210.00700) \| [website](https://sites.google.com/view/ud-ids-lab/mpc-bayesopt)]
+* **V.-A. Le** and A. A. Malikopoulos, “Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections”, IEEE Control Systems Letters, 2024. [[paper](https://ieeexplore.ieee.org/document/10778260)]
 
-* **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, in 2022 IEEE Conference on Decision and Control (CDC), IEEE, 2022, pp.6272-6277. [[paper](https://ieeexplore.ieee.org/document/9993337) \| [website](https://sites.google.com/view/ud-ids-lab/socially-cooperative-control) \| [video](https://youtu.be/xHdO6EDUfCQ)]
+* **V.-A. Le**, B. Chalaki, F. N. Tzortzoglou, and A. A. Malikopoulos, “Stochastic Time-Optimal Trajectory Planning for Connected and Automated Vehicles in Mixed-Traffic Merging Scenarios”, IEEE Transactions on Control Systems Technology, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10621701)]
+
+* **V.-A. Le**, H. M. Wang, G. Orosz, and A. A. Malikopoulos, “Coordination for Connected Automated Vehicles at Merging Roadways in Mixed Traffic Environment”, in 2023 62th IEEE Conference on Decision and Control (CDC), 2023, pp. 4150–4155. [[paper](https://ieeexplore.ieee.org/abstract/document/10383318)]
+
+* N. Venkatesh, **V.-A. Le**, A. Dave, and A. A. Malikopoulos, “Connected and Automated Vehicles in Mixed-Traffic: Learning Human Driver Behavior for Effective On-Ramp Merging”, in 2023 62th IEEE Conference on Decision and Control (CDC), 2023, pp. 92–97. [[paper](https://ieeexplore.ieee.org/abstract/document/10383913)]
+
+* **V.-A. Le** and A. A. Malikopoulos, “Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”, in 2023 American Control Conference (ACC), 2023, pp. 1183–1188. [[paper](https://ieeexplore.ieee.org/abstract/document/10155950)]
+
+* **V.-A. Le** and A. A. Malikopoulos, “A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”, in 2022 IEEE Conference on Decision and Control (CDC), IEEE, 2022, pp.6272-6277. [[paper](https://ieeexplore.ieee.org/document/9993337)]
 
 * A. M. I. Mahbub, **V.-A. Le** and A. A. Malikopoulos, “Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/watch/?v=744859806128975) in a Mixed Traffic Environment”, Automatica, vol. 155, p. 111115, 2023. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0005109823002753)
 

@@ -20,7 +20,7 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
-* November 2024: My joint article with Dr. Andreas Malikopoulos, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> has been accepted for publication in the IEEE Control Systems Letters [[arXiv preprint]](https://arxiv.org/abs/2409.10864).
+* November 2024: My joint article with Dr. Andreas Malikopoulos, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> has been accepted for publication in the IEEE Control Systems Letters [[paper]](https://ieeexplore.ieee.org/document/10778260).
 
 * June 2024: My joint article with Behdad Chalaki, Filippos Tzortzoglou, and Dr. Andreas Malikopoulos, <em>"Stochastic Time-Optimal Trajectory Planning for Connected and Automated Vehicles in Mixed-Traffic Merging Scenarios"</em> has been accepted for publication in the IEEE Transactions on Control Systems Technology, Special Issue on Intelligent Decision Making, Planning and Control of Automated Vehicles [[paper]](https://ieeexplore.ieee.org/abstract/document/10621701).
 
