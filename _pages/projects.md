@@ -7,13 +7,13 @@ permalink: /research/
 author_profile: true
 ---
 
-## Joint Optimization of Traffic Light Control and Connected and Automated Vehicles' Trajectory Planning in Mixed-Traffic Signalized Intersections
+## Traffic Light Control and Connected and Automated Vehicles' Trajectory Planning in Mixed-Traffic Signalized Intersections
 
 ### Publications
 
 * **V.-A. Le** and A. A. Malikopoulos, “Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections”, IEEE Control Systems Letters, 2024. [[paper](https://ieeexplore.ieee.org/document/10778260)]
 
-## Coordination of Connected and Automated Vehicles in Mixed-Traffic Unsignalized Scenarios
+## Control and Coordination of Connected and Automated Vehicles in Mixed-Traffic
 
 ### Publications
 
