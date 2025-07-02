@@ -20,6 +20,8 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 # Recent News
 
+* July 2025: Our paper, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> [[paper]](https://ieeexplore.ieee.org/document/10778260), was selected as the best paper finalist (2nd place) in the ASME Automotive and Transportation Systems Technical Committee (ATS-TC) Invited Session for ACC 2025.
+
 * June 2025: I have defended my Ph.D. dissertation on <em>"Mixed-Traffic Control and Coordination: Optimization and Learning-Based Approaches"</em>. I will be joining the Department of Electrical and Systems Engineering, University of Pennsylvania as a postdoctoral researcher in my next endeavor.
 
 * June 2025: My joint article with Dr. Andreas Malikopoulos, <em>"Controller Adaptation via Learning Solutions of Contextual Bayesian Optimization"</em> has been accepted for publication in the IEEE Robotics and Automation Letters [[preprint]](https://arxiv.org/abs/2403.04881).
