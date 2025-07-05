@@ -29,10 +29,11 @@ author_profile: true
 
 ## Optimal Weight Adaptation for Model Predictive Control with Bayesian Optimization
 
+### Publications
+
 <!-- In this project, we develop intelligent motion planning and control methods for connected and automated vehicles in different traffic scenarios with the presence of human-driven vehicles. The foundation of these control methods lies at the intersection of optimal or predictive control, optimization, machine learning, and game theory. -->
 
-* **V.-A. Le** and A. A. Malikopoulos, “Controller Adaptation via Learning Solutions of Contextual Bayesian Opti-
-mization”, IEEE Robotics and Automation Letters (accepted), arXiv preprint arXiv:2403.04881, 2025 [[preprint]](https://arxiv.org/abs/2403.04881).
+* **V.-A. Le** and A. A. Malikopoulos, “Controller Adaptation via Learning Solutions of Contextual Bayesian Optimization”, IEEE Robotics and Automation Letters, 2025 [[paper]](https://ieeexplore.ieee.org/document/11068150).
 
 * **V.-A. Le** and A. A. Malikopoulos, “Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”, in 2023 American Control Conference (ACC), 2023, pp. 1183–1188. [[paper](https://ieeexplore.ieee.org/abstract/document/10155950)]
 
