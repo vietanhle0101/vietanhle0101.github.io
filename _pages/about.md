@@ -22,21 +22,21 @@ I will be joining the Department of Electrical and Systems Engineering, Universi
 
 # Recent News
 
-* July 2025: My joint article with Dr. Andreas Malikopoulos and Panagiotis Kounatidis, <em>"Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming"</em>, has been accepted to the 2025 IEEE Conference on Decision and Control (CDC 2025) [[preprint]](https://arxiv.org/abs/2503.21548).
+* July 2025: Our article, <em>"Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming"</em> [[preprint]](https://arxiv.org/abs/2503.21548), has been accepted to the 2025 IEEE Conference on Decision and Control (CDC 2025).
 
 * July 2025: Our paper, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> [[paper]](https://ieeexplore.ieee.org/document/10778260), was selected as the best paper finalist (2nd place) in the ASME Automotive and Transportation Systems Technical Committee (ATS-TC) Invited Session for ACC 2025.
 
 * June 2025: I have defended my Ph.D. dissertation on <em>"Mixed-Traffic Control and Coordination: Optimization and Learning-Based Approaches"</em>. I will be joining the Department of Electrical and Systems Engineering, University of Pennsylvania as a postdoctoral researcher in my next endeavor.
 
-* June 2025: My joint article with Dr. Andreas Malikopoulos, <em>"Controller Adaptation via Learning Solutions of Contextual Bayesian Optimization"</em> has been accepted for publication in the IEEE Robotics and Automation Letters [[paper]](https://ieeexplore.ieee.org/document/11068150).
+* June 2025: My joint article with Dr. Andreas Malikopoulos, <em>"Controller Adaptation via Learning Solutions of Contextual Bayesian Optimization"</em> [[paper]](https://ieeexplore.ieee.org/document/11068150), has been accepted for publication in the IEEE Robotics and Automation Letters.
 
-* November 2024: My joint article with Dr. Andreas Malikopoulos, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> has been accepted for publication in the IEEE Control Systems Letters [[paper]](https://ieeexplore.ieee.org/document/10778260).
+* November 2024: My joint article with Dr. Andreas Malikopoulos, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> [[paper]](https://ieeexplore.ieee.org/document/10778260), has been accepted for publication in the IEEE Control Systems Letters.
 
-* June 2024: My joint article with Behdad Chalaki, Filippos Tzortzoglou, and Dr. Andreas Malikopoulos, <em>"Stochastic Time-Optimal Trajectory Planning for Connected and Automated Vehicles in Mixed-Traffic Merging Scenarios"</em> has been accepted for publication in the IEEE Transactions on Control Systems Technology, Special Issue on Intelligent Decision Making, Planning and Control of Automated Vehicles [[paper]](https://ieeexplore.ieee.org/abstract/document/10621701).
+* June 2024: My joint article with Behdad Chalaki, Filippos Tzortzoglou, and Dr. Andreas Malikopoulos, <em>"Stochastic Time-Optimal Trajectory Planning for Connected and Automated Vehicles in Mixed-Traffic Merging Scenarios"</em> [[paper]](https://ieeexplore.ieee.org/abstract/document/10621701), has been accepted for publication in the IEEE Transactions on Control Systems Technology, Special Issue on Intelligent Decision Making, Planning and Control of Automated Vehicles.
 
 * June 2024: My joint work with Honda Research Institute USA team, <em>"Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction"</em>, has been accepted to the 2024 IEEE International Conference on Intelligent Robots and Systems (IROS2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10802371).
 
-* January 2024: My joint work with Honda Research Institute USA team, <em>"Multi-Robot Cooperative Navigation in Crowds: A Game-Theoretic Learning-Based Model Predictive Control Approach"</em>, has been accepted to the 2024 IEEE International Conference on Robotics and Automation (ICRA 2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10611204).
+* January 2024: My joint work with Honda Research Institute USA team, <em>"Multi-Robot Cooperative Navigation in Crowds: A Game-Theoretic Learning-Based Model Predictive Control Approach"</em> [[paper]](https://ieeexplore.ieee.org/abstract/document/10611204), has been accepted to the 2024 IEEE International Conference on Robotics and Automation (ICRA 2024).
 
 * August 2023: I have joined Cornell University as a visiting (non-degree) graduate student in System Engineering, and still work with Dr. Andreas Malikopoulos. 
 
@@ -44,9 +44,9 @@ I will be joining the Department of Electrical and Systems Engineering, Universi
 
 * June 2023: I have joined Honda Research Institute USA as a research intern this summer.
 
-* March 2023: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/reel/1387514409318685) in a Mixed Traffic Environment”</em>, has been accepted for publication in Automatica [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935).
+* March 2023: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Prioritized Receding Horizon Control Framework for [Platoon Formation](https://www.facebook.com/reel/1387514409318685) in a Mixed Traffic Environment”</em> [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935), has been accepted for publication in Automatica.
 
-* January 2023: My joint article with Dr. Andreas Malikopoulos, <em>“Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”</em>, has been accepted to the 2023 American Control Conference (ACC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10155950/).
+* January 2023: My joint article with Dr. Andreas Malikopoulos, <em>“Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”</em> [[paper]](https://ieeexplore.ieee.org/abstract/document/10155950/), has been accepted to the 2023 American Control Conference (ACC 2023).
 
 <!-- * October 2022: Our team (Heeseung Bang and I) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 949/6373 globally (12/99 in USA).
 
