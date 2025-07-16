@@ -16,9 +16,13 @@ I received the MSc degree in Informatics from Northern Arizona University, AZ, U
 From June to August 2023, I was a research intern at Honda Research Institute USA.
 My current research interest includes Learning-based Control, Model Predictive Control, Distributed Optimization, and Multi-agent Systems, with a typical application in Connected and Automated Vehicles.
 
+I will be joining the Department of Electrical and Systems Engineering, University of Pennsylvania as a postdoctoral researcher starting from Fall 2025.
+
 ***
 
 # Recent News
+
+* July 2025: My joint article with Dr. Andreas Malikopoulos and Panagiotis Kounatidis, <em>"Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming"</em>, has been accepted to the 2025 IEEE Conference on Decision and Control (CDC 2025) [[preprint]](https://arxiv.org/abs/2503.21548).
 
 * July 2025: Our paper, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> [[paper]](https://ieeexplore.ieee.org/document/10778260), was selected as the best paper finalist (2nd place) in the ASME Automotive and Transportation Systems Technical Committee (ATS-TC) Invited Session for ACC 2025.
 
@@ -44,13 +48,13 @@ My current research interest includes Learning-based Control, Model Predictive C
 
 * January 2023: My joint article with Dr. Andreas Malikopoulos, <em>“Optimal Weight Adaptation of Model Predictive Control for Connected and Automated Vehicles in Mixed Traffic with Bayesian Optimization”</em>, has been accepted to the 2023 American Control Conference (ACC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10155950/).
 
-* October 2022: Our team (Heeseung Bang and I) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 949/6373 globally (12/99 in USA).
+<!-- * October 2022: Our team (Heeseung Bang and I) participated in the [IEEEXtreme](https://ieeextreme.org/) programming competition and finished at 949/6373 globally (12/99 in USA).
 
 * July 2022: My joint article with Dr. Andreas Malikopoulos, <em>“A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation”</em>, has been accepted to the 2022 IEEE Conference on Decision and Control (CDC 2022) [[paper]](https://ieeexplore.ieee.org/document/9993337).
 
 * June 2022: My joint article with Dr. Truong X. Nghiem and Dr. Linh Nguyen, <em>"Multistep Predictions for Adaptive Sampling in Mobile Robotic Sensor Networks Using Proximal ADMM"</em>, has been accepted for publication in IEEE Access [[paper]](https://ieeexplore.ieee.org/document/9797705).
 
-* May 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been accepted to the 10th IFAC Symposium on Advances in Automotive Control [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935).
+* May 2022: My joint article with Ishtiaque Mahbub and Dr. Andreas Malikopoulos, <em>“Safety-Aware and Data-Driven Predictive Control for Connected Automated Vehicles at a Mixed Traffic Signalized Intersection”</em>, has been accepted to the 10th IFAC Symposium on Advances in Automotive Control [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896322022935). -->
 
 <!-- * December 2021: My CDC 2021 paper was presented at the conference, in an invited session on "Gaussian Process Based Identification and Control". -->
 
