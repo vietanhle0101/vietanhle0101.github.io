@@ -10,13 +10,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Mechanical Engineering with an emphasis on Robotics & Control at the University of Delaware, DE, USA and a visiting (non-degree) graduate student in System Engineering at Cornell University, NY, USA.
-I work under the supervision of Dr. Andreas Malikopoulos in the [**Information and Decision Science (IDS) Lab**](https://ids-lab.net/).
-I received the MSc degree in Informatics from Northern Arizona University, AZ, USA and the BSc degree in Automation and Control Engineering (Talented program) from Hanoi University of Science and Technology, Vietnam in 2021 and 2019, respectively.
-From June to August 2023, I was a research intern at Honda Research Institute USA.
-My current research interest includes Learning-based Control, Model Predictive Control, Distributed Optimization, and Multi-agent Systems, with a typical application in Connected and Automated Vehicles.
-
-I will be joining the Department of Electrical and Systems Engineering, University of Pennsylvania as a postdoctoral researcher starting from Fall 2025.
+I am a postdoctoral researcher at the Department of Electrical and Systems Engineering, University of Pennsylvania, PA, USA.
+I work under the supervision of Dr. Rahul Mangharam in the xLab.
+I received the PhD degree in Mechanical Engineering from the University of Delaware in 2025, the MSc degree in Informatics from Northern Arizona University in 2021, and the BSc degree in Automation and Control Engineering (talented program) from Hanoi University of Science and Technology, Vietnam in 2019, respectively. 
+<!-- I work under the supervision of Dr. Andreas Malikopoulos in the [**Information and Decision Science (IDS) Lab**](https://ids-lab.net/). -->
+From September 2023 to August 2025, I was a visiting graduate scholar in System Engineering at Cornell University, and from June to August 2023, I was a research intern at Honda Research Institute USA.
+My current research interest includes Learning for Control and Optimization, Model Predictive Control, Distributed Optimization, and Multi-agent Systems.
 
 ***
 
