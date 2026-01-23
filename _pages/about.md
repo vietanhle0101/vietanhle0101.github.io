@@ -21,6 +21,8 @@ My current research interest includes Learning for Control and Optimization, Mod
 
 # Recent News
 
+* January 2026: Our article, <em>"A Hybrid Learning-to-Optimize Framework for Mixed-Integer Quadratic Programming"</em> [[preprint]](https://arxiv.org/abs/2511.19383), has been accepted to the 8th Annual Learning for Dynamics & Control Conference (L4DC 2026).
+
 * July 2025: Our article, <em>"Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming"</em> [[preprint]](https://arxiv.org/abs/2503.21548), has been accepted to the 2025 IEEE Conference on Decision and Control (CDC 2025).
 
 * July 2025: Our paper, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> [[paper]](https://ieeexplore.ieee.org/document/10778260), was selected as the best paper finalist (2nd place) in the ASME Automotive and Transportation Systems Technical Committee (ATS-TC) Invited Session for ACC 2025.
