@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Viet-Anh Le"
   avatar           : "profile.jpg"
-  bio              : "PhD student"
-  location         : "University of Delaware"
+  bio              : "Postdoctoral Researcher"
+  location         : "University of Pennsylvania"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=stMa35QAAAAJ&hl=en&oi=ao"
-  email            : "vietale@udel.edu"
+  email            : "vietanh@seas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
