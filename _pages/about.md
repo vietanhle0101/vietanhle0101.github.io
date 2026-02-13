@@ -21,6 +21,8 @@ My current research interest includes Learning for Control and Optimization, Mod
 
 # Recent News
 
+* February 2026: I am honored to be selected as a Penn AI Fellow at the University of Pennsylvania.
+
 * January 2026: Our article, <em>"A Hybrid Learning-to-Optimize Framework for Mixed-Integer Quadratic Programming"</em> [[preprint]](https://arxiv.org/abs/2511.19383), has been accepted to the 8th Annual Learning for Dynamics & Control Conference (L4DC 2026).
 
 * July 2025: Our article, <em>"Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming"</em> [[preprint]](https://arxiv.org/abs/2503.21548), has been accepted to the 2025 IEEE Conference on Decision and Control (CDC 2025).
