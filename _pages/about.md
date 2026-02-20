@@ -15,21 +15,23 @@ I work under the supervision of Dr. Rahul Mangharam in the xLab.
 I received the PhD degree in Mechanical Engineering from the University of Delaware in 2025, the MSc degree in Informatics from Northern Arizona University in 2021, and the BSc degree in Automation and Control Engineering (talented program) from Hanoi University of Science and Technology, Vietnam in 2019, respectively. 
 <!-- I work under the supervision of Dr. Andreas Malikopoulos in the [**Information and Decision Science (IDS) Lab**](https://ids-lab.net/). -->
 From September 2023 to August 2025, I was a visiting graduate scholar in System Engineering at Cornell University, and from June to August 2023, I was a research intern at Honda Research Institute USA.
-My current research interest includes Learning for Control and Optimization, Model Predictive Control, Distributed Optimization, and Multi-agent Systems.
+My current research interests include Learning for Control and Optimization, Model Predictive Control, Distributed Optimization, and Multi-agent Systems.
 
 ***
 
 # Recent News
 
-* February 2026: I am honored to be selected as a Penn AI Fellow at the University of Pennsylvania.
+* February 2026: I am honored to be selected as a [Penn AI Fellow](https://ai.upenn.edu/penn-ai-fellows).
 
 * January 2026: Our article, <em>"A Hybrid Learning-to-Optimize Framework for Mixed-Integer Quadratic Programming"</em> [[preprint]](https://arxiv.org/abs/2511.19383), has been accepted to the 8th Annual Learning for Dynamics & Control Conference (L4DC 2026).
+
+* August 2025: I have joined the Department of Electrical and Systems Engineering, University of Pennsylvania as a postdoctoral researcher in my next endeavor, working with Dr. Rahul Mangharam in the [xLab](https://xlab.upenn.edu/).
 
 * July 2025: Our article, <em>"Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming"</em> [[preprint]](https://arxiv.org/abs/2503.21548), has been accepted to the 2025 IEEE Conference on Decision and Control (CDC 2025).
 
 * July 2025: Our paper, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> [[paper]](https://ieeexplore.ieee.org/document/10778260), was selected as the best paper finalist (2nd place) in the ASME Automotive and Transportation Systems Technical Committee (ATS-TC) Invited Session for ACC 2025.
 
-* June 2025: I have defended my Ph.D. dissertation on <em>"Mixed-Traffic Control and Coordination: Optimization and Learning-Based Approaches"</em>. I will be joining the Department of Electrical and Systems Engineering, University of Pennsylvania as a postdoctoral researcher in my next endeavor.
+* June 2025: I have defended my Ph.D. dissertation on <em>"Mixed-Traffic Control and Coordination: Optimization and Learning-Based Approaches"</em>.
 
 * June 2025: My joint article with Dr. Andreas Malikopoulos, <em>"Controller Adaptation via Learning Solutions of Contextual Bayesian Optimization"</em> [[paper]](https://ieeexplore.ieee.org/document/11068150), has been accepted for publication in the IEEE Robotics and Automation Letters.
 
