@@ -25,7 +25,7 @@ My current research interests include Learning for Control and Optimization, Mod
 
 * January 2026: Our article, <em>"A Hybrid Learning-to-Optimize Framework for Mixed-Integer Quadratic Programming"</em> [[preprint]](https://arxiv.org/abs/2511.19383), has been accepted to the 8th Annual Learning for Dynamics & Control Conference (L4DC 2026).
 
-* August 2025: I have joined the Department of Electrical and Systems Engineering, University of Pennsylvania as a postdoctoral researcher in my next endeavor, working with Dr. Rahul Mangharam in the [xLab](https://xlab.upenn.edu/).
+* August 2025: I have joined the Department of Electrical and Systems Engineering, University of Pennsylvania as a postdoctoral researcher, working with Dr. Rahul Mangharam in the [xLab](https://xlab.upenn.edu/).
 
 * July 2025: Our article, <em>"Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming"</em> [[preprint]](https://arxiv.org/abs/2503.21548), has been accepted to the 2025 IEEE Conference on Decision and Control (CDC 2025).
 
