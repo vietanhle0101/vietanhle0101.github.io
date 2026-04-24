@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher at the Department of Electrical and Systems Engineering, University of Pennsylvania, PA, USA.
-I work under the supervision of Dr. Rahul Mangharam in the xLab.
+I work under the supervision of Dr. Rahul Mangharam in the [xLab](https://xlab.upenn.edu/).
 I received the PhD degree in Mechanical Engineering from the University of Delaware in 2025, the MSc degree in Informatics from Northern Arizona University in 2021, and the BSc degree in Automation and Control Engineering (talented program) from Hanoi University of Science and Technology, Vietnam in 2019, respectively. 
 <!-- I work under the supervision of Dr. Andreas Malikopoulos in the [**Information and Decision Science (IDS) Lab**](https://ids-lab.net/). -->
 From September 2023 to August 2025, I was a visiting graduate scholar in System Engineering at Cornell University, and from June to August 2023, I was a research intern at Honda Research Institute USA.
@@ -20,6 +20,9 @@ My current research interests include Learning for Control and Optimization, Mod
 ***
 
 # Recent News
+
+* May 2026: I am selected to give a lightning talk at [the 3rd Northeast Systems
+and Control Workshop](https://nescw.org/).
 
 * February 2026: I am honored to be selected as a [Penn AI Fellow](https://ai.upenn.edu/penn-ai-fellows).
 
@@ -34,6 +37,8 @@ My current research interests include Learning for Control and Optimization, Mod
 * June 2025: I have defended my Ph.D. dissertation on <em>"Mixed-Traffic Control and Coordination: Optimization and Learning-Based Approaches"</em>.
 
 * June 2025: My joint article with Dr. Andreas Malikopoulos, <em>"Controller Adaptation via Learning Solutions of Contextual Bayesian Optimization"</em> [[paper]](https://ieeexplore.ieee.org/document/11068150), has been accepted for publication in the IEEE Robotics and Automation Letters.
+
+* May 2025: I gave a talk entitled <em>"Towards Real-time Cooperative Trajectory Planning for Connected and Automated Vehicles in Mixed Traffic"</em> at the RGSO-CARS Seminar at the University of Delaware.
 
 * November 2024: My joint article with Dr. Andreas Malikopoulos, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> [[paper]](https://ieeexplore.ieee.org/document/10778260), has been accepted for publication in the IEEE Control Systems Letters.
 
