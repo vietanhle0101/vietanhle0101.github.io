@@ -21,7 +21,7 @@ My current research interests include Learning for Control and Optimization, Mod
 
 # Recent News
 
-* May 2026: I am selected to give a lightning talk at [the 3rd Northeast Systems
+* May 2026: I am selected to give a lightning talk entitled <em>"Learning-to-Optimize and Its Applications in Model Predictive Control"</em> at [the 3rd Northeast Systems
 and Control Workshop](https://nescw.org/).
 
 * February 2026: I am honored to be selected as a [Penn AI Fellow](https://ai.upenn.edu/penn-ai-fellows).
