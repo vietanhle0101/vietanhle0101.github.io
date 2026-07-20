@@ -21,9 +21,11 @@ My current research interests include Learning for Control and Optimization, Mod
 
 # Recent News
 
+* July 2026: Our article, <em>"Toward Single-Step MPPI via Differentiable Predictive Control"</em> [[preprint]](https://arxiv.org/abs/2604.01539), has been accepted to the 2026 IEEE Conference on Decision and Control (CDC 2026).
+
 * June 2026: I am honored to receive the **2026 IEEE ITSS Best Dissertation Award - 2nd Place** for my Ph.D. dissertation entitled <em>"Mixed-Traffic Control and Coordination: Optimization and Learning-Based Approaches"</em>.
 
-* May 2026: I am selected to give a lightning talk entitled <em>"Learning-to-Optimize and Its Applications in Model Predictive Control"</em> at [the 3rd Northeast Systems and Control Workshop](https://nescw.org/).
+* May 2026: I am selected to give a lightning talk entitled <em>"Learning-to-Optimize and Its Applications in Model Predictive Control"</em> at [**the 3rd Northeast Systems and Control Workshop**](https://nescw.org/).
 
 * February 2026: I am honored to be selected as a [**Penn AI Fellow**](https://ai.upenn.edu/penn-ai-fellows).
 
@@ -31,7 +33,7 @@ My current research interests include Learning for Control and Optimization, Mod
 
 * August 2025: I have joined the Department of Electrical and Systems Engineering, University of Pennsylvania as a postdoctoral researcher, working with Dr. Rahul Mangharam in the [xLab](https://xlab.upenn.edu/).
 
-* July 2025: Our article, <em>"Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming"</em> [[preprint]](https://arxiv.org/abs/2503.21548), has been accepted to the 2025 IEEE Conference on Decision and Control (CDC 2025).
+* July 2025: Our article, <em>"Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming"</em> [[paper]](https://ieeexplore.ieee.org/document/11312656), has been accepted to the 2025 IEEE Conference on Decision and Control (CDC 2025).
 
 * July 2025: Our paper, <em>"Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections"</em> [[paper]](https://ieeexplore.ieee.org/document/10778260), was selected as the best paper finalist (2nd place) in the ASME Automotive and Transportation Systems Technical Committee (ATS-TC) Invited Session for ACC 2025.
 
