@@ -20,6 +20,8 @@ My current research interests include Learning for Control and Optimization, Mod
 
 # Recent News
 
+* September 2026: Our U.S. patent application with Honda Research Institute USA, "Systems and Methods for Robot Navigation," has been published as U.S. Patent Application Publication No. US20260056558A9.
+
 * July 2026: Our article, <em>"Toward Single-Step MPPI via Differentiable Predictive Control"</em> [[preprint]](https://arxiv.org/abs/2604.01539), has been accepted to the 2026 IEEE Conference on Decision and Control (CDC 2026).
 
 * June 2026: I am honored to receive the **2026 IEEE ITSS Best Dissertation Award - 2nd Place** for my Ph.D. dissertation entitled <em>"Mixed-Traffic Control and Coordination: Optimization and Learning-Based Approaches"</em>.
